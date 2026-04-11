@@ -1,0 +1,9 @@
+{
+  "name": "superwall-vibedesign-kit",
+  "description": "Design, edit, and rebuild Superwall paywalls by talking to Claude in plain English. Claude can pull any paywall, change colors/text/screens, swap products, or rebuild one from a screenshot — all via Superwall's internal tRPC API.",
+  "author": {
+    "name": "Azer Safarli"
+  },
+  "version": "0.1.0",
+  "license": "MIT"
+}

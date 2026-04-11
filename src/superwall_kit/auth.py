@@ -1,8 +1,11 @@
 """Load Superwall auth from local .secrets/ files.
 
 We don't touch the system cookie jar. Paste your session cookie once into
-.secrets/cookie.txt and the CSRF token into .secrets/csrf.txt, and that's it.
+.secrets/cookie.txt — the anti-csrf token is extracted from inside the
+cookie string automatically.
 """
+from __future__ import annotations
+import re
 from pathlib import Path
 from dataclasses import dataclass
 
@@ -31,15 +34,34 @@ class Auth:
         }
 
 
+def _extract_csrf_from_cookie(cookie: str) -> str | None:
+    m = re.search(r"paywall_sAntiCsrfToken=([^;]+)", cookie)
+    return m.group(1).strip() if m else None
+
+
 def load_auth() -> Auth:
     cookie_path = SECRETS / "cookie.txt"
     csrf_path = SECRETS / "csrf.txt"
-    if not cookie_path.exists() or not csrf_path.exists():
+
+    if not cookie_path.exists():
         raise FileNotFoundError(
-            f"Missing {cookie_path} or {csrf_path}. "
-            "Paste your Superwall session cookie and CSRF token there."
+            f"Missing {cookie_path}.\n"
+            f"Run `python3 scripts/login.py` and paste a Copy-as-cURL from "
+            f"DevTools, or paste your cookie string directly into cookie.txt."
         )
-    return Auth(
-        cookie=cookie_path.read_text().strip(),
-        csrf=csrf_path.read_text().strip(),
-    )
+
+    cookie = cookie_path.read_text().strip()
+
+    # Prefer explicit csrf.txt if present (back-compat), else auto-extract
+    if csrf_path.exists():
+        csrf = csrf_path.read_text().strip()
+    else:
+        csrf = _extract_csrf_from_cookie(cookie)
+        if not csrf:
+            raise ValueError(
+                "Could not find paywall_sAntiCsrfToken in cookie string. "
+                "Make sure you pasted a full Cookie: header from a logged-in "
+                "Superwall session."
+            )
+
+    return Auth(cookie=cookie, csrf=csrf)
