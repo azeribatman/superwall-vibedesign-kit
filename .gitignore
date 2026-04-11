@@ -1,0 +1,8 @@
+.secrets/
+data/templates/
+data/catalog/*.raw.json
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store

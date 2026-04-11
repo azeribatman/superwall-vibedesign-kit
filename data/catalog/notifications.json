@@ -1,0 +1,46 @@
+{
+  "types": [
+    "paywall_notification:TRIAL_STARTED"
+  ],
+  "sample": {
+    "title": {
+      "type": "literal",
+      "value": {
+        "type": "property-text",
+        "value": "",
+        "rendering": {
+          "type": "literal"
+        }
+      }
+    },
+    "subtitle": {
+      "type": "literal",
+      "value": {
+        "type": "property-text",
+        "value": "",
+        "rendering": {
+          "type": "literal"
+        }
+      }
+    },
+    "body": {
+      "type": "literal",
+      "value": {
+        "type": "property-text",
+        "value": "",
+        "rendering": {
+          "type": "literal"
+        }
+      }
+    },
+    "delay": {
+      "type": "literal",
+      "value": {
+        "type": "number",
+        "value": 172800000
+      }
+    },
+    "id": "paywall_notification:TRIAL_STARTED",
+    "typeName": "paywall_notification"
+  }
+}
