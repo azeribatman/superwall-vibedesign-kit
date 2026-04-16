@@ -1,33 +1,24 @@
 # superwall-vibedesign-kit
 
-> **Design Superwall paywalls by talking to Claude.** Change colors, rewrite
-> copy, add screens, rebuild from a screenshot — all in plain English. No
-> dragging elements around the editor.
+**Edit your Superwall paywalls by talking to Claude. In plain English.**
 
-The official Superwall MCP can create paywall *records*, but it can't touch
-design, content, layout, or conditional logic. This toolkit fills that gap
-by calling the same tRPC endpoints the Superwall web editor uses, wrapped
-in a Claude Code plugin so you never see code unless you want to.
+No code. No dragging stuff around the editor. Just say what you want.
 
-## What you can do
+> "make my paywall purple"
 
-> "Change my paywall's primary color to purple"
+> "add a trial screen"
 
-> "Rebuild this paywall to match this screenshot" *(attach image)*
+> "rebuild this to match this screenshot" *(attach image)*
 
-> "Add a trial reminder screen that only shows if the user is eligible"
+> "change the button text to white"
 
-> "Duplicate the Blinkist template into my new app and swap the products"
-
-> "Make the CTA button text white so it reads on the purple background"
-
-Claude does the technical work. You just describe what you want.
+Claude handles everything under the hood.
 
 ---
 
-## Install (for vibe coders — 2 minutes)
+## How it works (3 steps)
 
-You need [Claude Code](https://claude.com/claude-code) installed.
+### Step 1: Clone this repo and open Claude Code
 
 ```bash
 git clone https://github.com/azeribatman/superwall-vibedesign-kit
@@ -35,31 +26,92 @@ cd superwall-vibedesign-kit
 claude
 ```
 
-That's it. When Claude Code opens in this folder, it auto-reads
-`CLAUDE.md` and instantly knows how to help you with Superwall.
+Don't have Claude Code? Get it at [claude.com/claude-code](https://claude.com/claude-code)
 
-The first thing you ask (e.g. "pull my paywall") will walk you through a
-30-second login. One Copy-as-cURL from Chrome DevTools, done.
+### Step 2: Connect your Superwall account (one time, 20 seconds)
+
+When you ask Claude to do anything with your paywall, it'll say:
+
+> I need to connect your Superwall account first.
+
+It'll give you a tiny snippet to paste in your browser console. That
+snippet copies 2 tokens to your clipboard. You paste them back. Done.
+
+**Nothing scary happens.** No passwords. No browser extensions. Just 2
+tokens that let Claude talk to Superwall on your behalf. They're stored
+locally and never uploaded anywhere.
+
+### Step 3: Just talk
+
+Say things like:
+
+| What you say | What happens |
+|---|---|
+| "pull my paywall 206207" | Downloads your paywall so Claude can see it |
+| "change the primary color to #8C59D9" | Updates the brand color |
+| "make the background white" | Flips the theme |
+| "add a screen for users with a free trial" | Adds a conditional screen |
+| "change the CTA text to white" | Fixes contrast on buttons |
+| "rebuild this from this screenshot" | Matches a reference image |
+| "duplicate the Blinkist template for my app" | Copies a template + swaps products |
+
+Claude always shows you what it's about to change and asks before
+pushing anything live.
 
 ---
 
-## First command to try
+## What's included
 
-```
-change my paywall 206207 primary color to #8C59D9
-```
+This repo has a **complete schema reference** for how Superwall paywalls
+are built internally — every node type, every property, every conditional
+operator. Claude reads this so you don't have to.
 
-Claude will:
-1. Walk you through logging in (if not already)
-2. Pull your paywall
-3. Show you what's inside
-4. Make the change
-5. Confirm before pushing
-6. Push it live
+When you need a template, Claude **pulls it fresh from Superwall** using
+your account. All 196+ public templates are accessible on demand — no
+stale copies, always up to date. Just say "show me the templates" or
+"use the Blinkist template as a starting point".
 
 ---
 
-## For devs who want the Python library directly
+## FAQ
+
+**Do I need to know how to code?**
+No. Claude handles everything. You just describe what you want in
+normal English.
+
+**What's Claude Code?**
+It's a CLI tool from Anthropic that lets you talk to Claude while it
+reads and edits files. Think of it as an AI assistant that lives in
+your terminal. Get it at [claude.com/claude-code](https://claude.com/claude-code)
+
+**Is this official Superwall software?**
+No. This is an independent project that uses Superwall's internal API
+(the same one their web editor uses). It's not endorsed by Superwall.
+
+**What can't it do?**
+It can't create a brand new Superwall account, manage billing, or do
+things outside the paywall editor (like campaigns or webhooks). For
+those, use the official Superwall dashboard or their MCP.
+
+**My tokens expired / I'm getting errors**
+Re-run the login flow. Tokens expire roughly monthly. Claude will tell
+you when it happens.
+
+**Can I use this with a different AI tool?**
+The Python library (`src/superwall_kit/`) works standalone. But the
+magic is in the Claude Code integration — the `CLAUDE.md` file teaches
+Claude exactly how to use it.
+
+**Is this safe?**
+Your tokens are stored locally in `.secrets/` (gitignored). Claude
+always asks before pushing changes. You can review every change before
+it goes live.
+
+---
+
+## For developers
+
+If you want to use the Python library directly (without Claude Code):
 
 ```python
 import sys; sys.path.insert(0, 'src')
@@ -70,143 +122,27 @@ c = SuperwallClient()
 # Pull
 snap = c.get_snapshot(paywall_id=206207)
 
-# Edit — it's a flat dict of records
+# Edit
 store = snap['snapshot']['store']
 store['state:style.interface.primary.light']['defaultValue']['value'] = '#8C59D9ff'
-store['paywall:paywall']['name'] = 'My New Paywall'
 
-# Push (prepare + promote in one call)
-new_version = c.push_snapshot(
-    paywall_id=206207,
-    application_id=37837,
-    snapshot=snap['snapshot'],
-)
+# Push
+c.push_snapshot(paywall_id=206207, application_id=37837, snapshot=snap['snapshot'])
 ```
 
-See `docs/SCHEMA.md` for the full schema reference,
-`docs/METHOD.md` for the tRPC endpoint catalog, and `docs/PATTERNS.md`
-for design patterns across 196 real templates.
-
----
-
-## Authentication (one-time, 20 seconds)
-
-We only need 2 tokens from your browser. We don't read your cookie jar,
-don't touch your browser profile, and don't store passwords.
-
-1. Open **superwall.com** in Chrome and log in
-2. Open DevTools (Cmd+Opt+I) → **Console** tab
-3. Paste this snippet and press Enter:
-
-```js
-copy(`accounts_superwall_token=${document.cookie.match(/accounts_superwall_token=([^;]+)/)[1]}\npaywall_sAntiCsrfToken=${document.cookie.match(/paywall_sAntiCsrfToken=([^;]+)/)[1]}`)
-```
-
-4. It copies 2 tokens to your clipboard
-5. Either:
-   - **Paste directly into Claude Code chat** (Claude saves them), or
-   - Run `python3 scripts/login.py` and paste when prompted
-
-That's it. Saved to `.secrets/cookie.txt` (gitignored). Only these 2
-tokens are stored — no analytics cookies, no tracking, no passwords.
-
-**Tokens expire ~monthly.** If you start seeing `HTTP 403`, just re-run
-the snippet.
-
----
-
-## What's in this repo
-
-```
-CLAUDE.md                     Instructions Claude reads on entry
-.claude-plugin/plugin.json    Plugin metadata
-skills/superwall/SKILL.md     Auto-activating skill when you mention paywalls
-commands/sw-login.md          /sw-login — walks through auth
-commands/sw-pull.md           /sw-pull <id> — pull a paywall
-commands/sw-push.md           /sw-push <id> <app> — push changes
-
-src/superwall_kit/            Python client (auth, tRPC wrapper)
-  auth.py
-  client.py
-
-scripts/
-  login.py                    Paste-a-cURL login flow
-  pull_templates.py           Bulk pull every v4 template in your workspace
-  build_catalog.py            Regenerate schema catalog
-
-data/
-  catalog/                    Machine-readable schema (committed)
-  templates/                  Your pulled templates (gitignored)
-  pulled/                     Paywalls Claude has pulled for editing (gitignored)
-
-docs/
-  METHOD.md                   tRPC endpoint reference
-  SCHEMA.md                   Complete v4 snapshot schema
-  PATTERNS.md                 Design patterns from 196 templates
-  patterns-bucket-*.md        Raw per-bucket analyses
-```
-
----
-
-## Schema highlights
-
-- **12 node types**: `stack`, `text`, `img`, `icon`, `navigation`,
-  `video`, `drawer`, `multiple-choice`, `choice-item`, `lottie`,
-  `indicator`, `indicator-item`
-- **65 CSS/prop keys** — everything the editor supports
-- **4 value wrappers**: `literal`, `conditional`, `referential`, `tombstone`
-- **8 conditional operators**: `=`, `!=`, `<`, `<=`, `>`, `>=`, `contains`, `?`
-- **15+ theme tokens** under `state:style.interface.*` — including the
-  non-obvious ones: `productSelectedBg`, `elementBackground`, `cardBg`,
-  `ctaText`, `borderSelected`
-- **Navigation state**: `state:node.<navId>.currentIndex` — you can read
-  AND write this from click behaviors, enabling "jump to screen 3"
-
----
-
-## Design pattern insights
-
-From analyzing all 196 public Superwall v4 templates:
-
-- Most real paywalls are **single-page product pickers**. Multi-screen
-  flows are in <10% of templates.
-- Designers **fake drawers** with `state.modalOpen` + plain stacks — the
-  native `drawer` node is used by only 2 templates.
-- Only 2 templates use native `multiple-choice` quiz components. The rest
-  fake quizzes with stacks + `state.question*` bools.
-- Clever trick: 5 FAQ templates share a single scalar
-  `state:params.answerOpened` — opening one row auto-closes the previous.
-- `state.enableFreeTrial` is a canonical switch: flips selected product +
-  rewrites CTA copy + shows/hides trial UI in one toggle.
-
-See `docs/PATTERNS.md` for the full writeup.
+Reference docs:
+- `docs/SCHEMA.md` — complete snapshot schema
+- `docs/METHOD.md` — tRPC endpoints + auth
+- `docs/PATTERNS.md` — design patterns from 196 templates
 
 ---
 
 ## Disclaimer
 
-- This project uses **undocumented internal Superwall APIs**. They can
-  break whenever Superwall redeploys. Yearly maintenance expected.
-- Not affiliated with, endorsed by, or supported by Superwall. This is
-  an independent research project. **Review Superwall's Terms of
-  Service before using in production.**
-- No template content is redistributed. `data/templates/` is gitignored
-  and must be pulled from your own Superwall workspace with
-  `scripts/pull_templates.py`.
-- Cookies expire. If you start seeing `HTTP 403 FORBIDDEN`, re-run
-  `/sw-login`.
-- Auth is workspace-scoped. Switching Superwall workspaces requires a
-  fresh login.
-
----
+This project uses undocumented internal Superwall APIs. They can change
+without notice. Not affiliated with or endorsed by Superwall. Review
+their Terms of Service before using in production. Tokens expire monthly.
 
 ## License
 
-MIT. See `LICENSE`.
-
-## Contributing
-
-PRs welcome. The schema catalog is the most valuable part — if you find
-a node type, property, state variable, or conditional pattern not
-documented in `docs/SCHEMA.md`, please open an issue or PR with an
-example template.
+MIT

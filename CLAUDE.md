@@ -136,8 +136,20 @@ before pushing anything substantial.**
 - `docs/PATTERNS.md` — design patterns from 196 templates
 - `data/catalog/node_types.json`, `properties.json`, `state_ids.json`,
   `conditional_fields.json` — machine-readable schema catalogs
-- `data/templates/<id>.json` — pulled templates (if user has run
-  `scripts/pull_templates.py`)
+
+Templates are NOT shipped with the repo. Pull them on demand from
+Superwall using the authenticated client:
+
+```python
+templates = c.query('blitzMigration.paywalls.getPaywallTemplates',
+    {'take': 250, 'skip': 0, 'applicationId': APP_ID, 'v4Only': True})
+# returns {'paywallTemplates': [...], 'count': 196, ...}
+# each template has id, name, previews, templateCategories
+# fetch full snapshot: c.get_snapshot(template_id)
+```
+
+Or bulk-pull all: `python3 scripts/pull_templates.py` (saves to
+`data/templates/` which is gitignored).
 
 ## Typical requests + how to handle them
 
