@@ -89,22 +89,29 @@ for design patterns across 196 real templates.
 
 ---
 
-## Authentication (one-time, 30 seconds)
+## Authentication (one-time, 20 seconds)
 
-We don't read your system cookie jar. You paste one cURL from Chrome
-DevTools and we extract the session cookie. That's it.
+We only need 2 tokens from your browser. We don't read your cookie jar,
+don't touch your browser profile, and don't store passwords.
 
-1. Open Superwall in Chrome, log in to the workspace you want to edit
-2. Open any paywall in the editor
-3. Open DevTools → **Network** tab → reload
-4. Click any request with `/api/trpc/` in the URL
-5. Right-click → **Copy** → **Copy as cURL**
-6. Either:
-   - Paste it directly into Claude Code chat (Claude saves it), or
+1. Open **superwall.com** in Chrome and log in
+2. Open DevTools (Cmd+Opt+I) → **Console** tab
+3. Paste this snippet and press Enter:
+
+```js
+copy(`accounts_superwall_token=${document.cookie.match(/accounts_superwall_token=([^;]+)/)[1]}\npaywall_sAntiCsrfToken=${document.cookie.match(/paywall_sAntiCsrfToken=([^;]+)/)[1]}`)
+```
+
+4. It copies 2 tokens to your clipboard
+5. Either:
+   - **Paste directly into Claude Code chat** (Claude saves them), or
    - Run `python3 scripts/login.py` and paste when prompted
 
-Saved to `.secrets/cookie.txt` (gitignored). The anti-CSRF token lives
-inside the cookie, so no separate file needed.
+That's it. Saved to `.secrets/cookie.txt` (gitignored). Only these 2
+tokens are stored — no analytics cookies, no tracking, no passwords.
+
+**Tokens expire ~monthly.** If you start seeing `HTTP 403`, just re-run
+the snippet.
 
 ---
 

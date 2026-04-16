@@ -15,35 +15,49 @@ plain language.
 ## First thing to check: auth
 
 Before any operation, check if `.secrets/cookie.txt` exists. If it doesn't,
-the user hasn't logged in yet and you need to walk them through it:
+the user hasn't logged in yet. Walk them through it:
 
-> I need to connect to your Superwall account first. It takes 30 seconds:
+> I need to connect to your Superwall account first. Takes 20 seconds:
 >
-> 1. Open Superwall in Chrome, log in to the workspace whose paywalls
->    you want to edit.
-> 2. Open any paywall in the editor.
-> 3. Open DevTools (Cmd+Opt+I) → **Network** tab → reload the page.
-> 4. Click any request in the list whose URL contains `/api/trpc/`.
-> 5. Right-click it → **Copy** → **Copy as cURL**.
-> 6. Paste the entire cURL into chat here.
+> 1. Open **superwall.com** in Chrome and log in.
+> 2. Open DevTools (Cmd+Opt+I) → **Console** tab.
+> 3. Paste this snippet and press Enter:
+>
+> ```js
+> copy(`accounts_superwall_token=${document.cookie.match(/accounts_superwall_token=([^;]+)/)[1]}\npaywall_sAntiCsrfToken=${document.cookie.match(/paywall_sAntiCsrfToken=([^;]+)/)[1]}`)
+> ```
+>
+> 4. It copies 2 tokens to your clipboard. Paste them here.
 
-When the user pastes the cURL, extract the cookie (look for `-b '...'`,
-`--cookie '...'`, or `-H 'cookie: ...'` in the text), save it to
-`.secrets/cookie.txt`, and run a smoke test:
+When the user pastes 2 lines starting with `accounts_superwall_token=`
+and `paywall_sAntiCsrfToken=`, extract the values, build the minimal
+cookie string, and save:
 
 ```bash
 mkdir -p .secrets
-# write the extracted cookie string to .secrets/cookie.txt
+cat > .secrets/cookie.txt << 'COOKIE'
+accounts_superwall_token=<TOKEN_VALUE>; paywall_sAntiCsrfToken=<CSRF_VALUE>
+COOKIE
+chmod 600 .secrets/cookie.txt
+```
+
+Then smoke test:
+
+```bash
 python3 -c "
 import sys; sys.path.insert(0,'src')
 from superwall_kit import SuperwallClient
 c = SuperwallClient()
-print('logged in as user', c.query('user.getSelf', {}).get('id','?'))
+u = c.query('user.getSelf', {})
+print('logged in:', u.get('user',{}).get('id', '?'))
 "
 ```
 
-If it says "logged in", confirm to the user: "✅ connected, what do you
-want to do?"
+If it prints a user id, confirm: "Connected! What do you want to do?"
+
+**Fallback:** the user can also paste a full Copy-as-cURL from DevTools
+Network tab. Parse `-b '...'` to find the cookie string, then extract
+the same 2 tokens. Both methods work — `scripts/login.py` handles both.
 
 ## How to do things
 
