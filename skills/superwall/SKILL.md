@@ -23,10 +23,15 @@ design/content/layout).
 
 ## When NOT to use this skill
 
-- User wants to list/archive/create paywall records (use the official
+- User wants to list/archive paywall records (use the official
   Superwall MCP if available — it's simpler for those)
 - User wants to manage products, campaigns, entitlements, webhooks (those
   are in the official MCP)
+
+> Note: creating a brand-new paywall record is **not** available in this
+> kit's API surface either. The user must create the empty paywall via
+> the Superwall dashboard UI (one click in the sidebar), then we push
+> the full snapshot here. See `docs/GOTCHAS.md` for the full workflow.
 
 ## First-run check: is the user authenticated?
 
@@ -104,6 +109,7 @@ editor will show the new version immediately.
 
 Before doing anything non-trivial, read these files in the repo:
 
+- `docs/GOTCHAS.md` — **READ FIRST** if you're about to build/push a paywall. Documents which API endpoints don't exist, required-but-easy-to-miss validation fields, schema quirks (icon-name casing, action-type enum, properties that crash the editor), layout traps, and the iOS SDK consumer pattern for decline chains.
 - `docs/METHOD.md` — tRPC endpoints and auth
 - `docs/SCHEMA.md` — complete v4 snapshot schema (nodes, properties, states, conditionals)
 - `docs/PATTERNS.md` — design patterns observed across 196 templates
@@ -122,6 +128,13 @@ Before doing anything non-trivial, read these files in the repo:
 5. **Respect workspace boundaries.** If a write returns `HTTP 403
    FORBIDDEN`, the cookie is for a different Superwall workspace than
    the target paywall. Ask the user to re-authenticate in the right one.
+6. **The API can accept a snapshot that crashes the editor.** Push
+   succeeding does not mean the paywall renders. The editor's
+   "Something's gone wrong" page typically signals an unrecognized
+   property (e.g. lowercase icon names, `css:webkitLineClamp`) or a
+   bad action type. See `docs/GOTCHAS.md` for the running list. After
+   any non-trivial push, ask the user to reload the editor and
+   confirm.
 
 ## Typical workflows
 
@@ -157,3 +170,25 @@ Before doing anything non-trivial, read these files in the repo:
    `state:products.hasIntroductoryOffer = false`
 4. Rewrite text content
 5. Push
+
+### "Build a brand-new paywall from scratch"
+
+There's no working `paywalls.createPaywall` endpoint in the API.
+Instead:
+
+1. Ask the user to create an empty paywall in the Superwall web
+   dashboard (or duplicate any existing one) and send you the new
+   paywall ID.
+2. Pull that ID's snapshot.
+3. Reset the platform records: `paywall:paywall.name`,
+   `featureGating`, `localizationProvider`; and every
+   `paywall_product:*` to a real ASC identifier (literal `"missing"`
+   is rejected).
+4. Drop all existing `node:*` records and build a fresh node tree
+   using the helper patterns documented in `docs/SCHEMA.md` and the
+   gotchas in `docs/GOTCHAS.md`.
+5. Push with `prepare` + `promote`. Both calls require non-null
+   `title` and `description` strings.
+6. Ask the user to reload the editor and confirm the layout renders
+   (no "Something's gone wrong"). If it does, see `docs/GOTCHAS.md`
+   for the running list of editor-crash causes.
