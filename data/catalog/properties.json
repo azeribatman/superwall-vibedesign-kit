@@ -1,0 +1,959 @@
+{
+  "css:backgroundColor": {
+    "conditional": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb",
+      "Snapchat#node:WaTmEQo"
+    ],
+    "literal<css-color>": [
+      "Snapchat#node:GSS3b0F",
+      "Snapchat#node:P3Dos3v",
+      "Snapchat#node:2cnFrVX"
+    ],
+    "tombstone": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:O2sdJq7",
+      "Snapchat#node:_eRm_1U"
+    ],
+    "<default>": [
+      "Zest#node:wAvK0St"
+    ]
+  },
+  "css:height": {
+    "literal<css-length>": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb",
+      "Snapchat#node:7TjYqFX"
+    ],
+    "tombstone": [
+      "Snapchat#node:vdMWmnL",
+      "Snapchat#node:JwPcJnm",
+      "Snapchat#node:HWJI_FU"
+    ],
+    "conditional": [
+      "Picture This - Plant Identifier#node:tQOu9H-",
+      "CamScanner - PDF Scanner App#node:GCSvV_4",
+      "CamScanner - PDF Scanner App#node:CyZ-1J1"
+    ]
+  },
+  "css:paddingTop;paddingBottom": {
+    "tombstone": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb",
+      "Snapchat#node:GSS3b0F"
+    ],
+    "literal<css-length>": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:O2sdJq7"
+    ],
+    "conditional": [
+      "Onboarding Questionnaire#node:B6rOI__",
+      "Onboarding Questionnaire#node:UV0DUgO",
+      "Onboarding Questionnaire#node:bsHqhaf"
+    ]
+  },
+  "css:paddingTop": {
+    "literal<css-length>": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb",
+      "Snapchat#node:UErJCgZ"
+    ],
+    "tombstone": [
+      "Snapchat#node:7TwFxeC",
+      "Onboarding Questionnaire#node:M5uD7ZX",
+      "Onboarding Questionnaire#node:8nKM8tZ"
+    ],
+    "conditional": [
+      "Onboarding Questionnaire#node:rFqQuU9",
+      "Onboarding Questionnaire#node:QJC6d47",
+      "Onboarding Questionnaire#node:SmNvrXL"
+    ]
+  },
+  "css:paddingBottom": {
+    "literal<css-length>": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb",
+      "Snapchat#node:V1aafq6"
+    ],
+    "tombstone": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:eEp5z7a",
+      "Onboarding Questionnaire#node:M5uD7ZX"
+    ],
+    "conditional": [
+      "Sports Betting#node:aQg-kbj",
+      "Picture This - Plant Identifier#node:BpL0mv9",
+      "Picture This - Plant Identifier#node:8dQ4auR"
+    ]
+  },
+  "css:paddingLeft;paddingRight": {
+    "conditional": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb",
+      "Snapchat#node:hdzp_ZW"
+    ],
+    "literal<css-length>": [
+      "Snapchat#node:GSS3b0F",
+      "Snapchat#node:P3Dos3v",
+      "Snapchat#node:2cnFrVX"
+    ],
+    "tombstone": [
+      "Snapchat#node:O2sdJq7",
+      "Snapchat#node:MJEC2zZ",
+      "Multi-Page | Two Plans#node:x2e-waQ"
+    ]
+  },
+  "css:overflow": {
+    "literal<css-string>": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb",
+      "Snapchat#node:-zDXZBD"
+    ],
+    "tombstone": [
+      "Onboarding Questionnaire#node:gkjcfZO",
+      "Onboarding Questionnaire v2#node:WPBDMbD",
+      "Cleaner Guru: Clean Up Storage#node:MQVrzo3"
+    ]
+  },
+  "prop:stack": {
+    "literal<property-stack>": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb"
+    ],
+    "conditional": [
+      "Picture This - Plant Identifier#node:oAT8zyI",
+      "Picture This - Plant Identifier#node:SGJSHhq",
+      "CamScanner - PDF Scanner App#node:ZUU13Zx"
+    ]
+  },
+  "css:backgroundImage": {
+    "literal<css-background-image>": [
+      "Snapchat#node:pBRpYxs",
+      "Snapchat#node:Sk_FQDb",
+      "Snapchat#node:O2sdJq7"
+    ],
+    "tombstone": [
+      "Multi-Page | Two Plans#node:cmvwAk6",
+      "Multi-Page | Single Plan + Exit Offer#node:cmvwAk6",
+      "Single-Page | Two Plans#node:LSZ5eVe"
+    ],
+    "conditional": [
+      "DuoLingo #node:yJ9Ft8-",
+      "DuoLingo #node:4sHcSBi",
+      "Strava #node:LhAVVmd"
+    ]
+  },
+  "prop:custom-css": {
+    "literal<property-custom-css>": [
+      "Snapchat#node:7TjYqFX",
+      "Snapchat#node:_eRm_1U",
+      "Snapchat#node:cNWmubu"
+    ],
+    "conditional": [
+      "Multi-Page | Two Plans#node:yKCHbUG",
+      "Multi-Page | Two Plans#node:cdngrB-",
+      "Multi-Page | Two Plans#node:zrnBnS2"
+    ],
+    "tombstone": [
+      "Multi-Page | Two Plans#node:sqpPPyt",
+      "Multi-Page | Two Plans#node:gxqYjVD",
+      "Multi-Page | Single Plan + Exit Offer#node:sqpPPyt"
+    ]
+  },
+  "prop:navigation": {
+    "literal<property-navigation>": [
+      "Snapchat#node:7TjYqFX",
+      "Snapchat#node:7TjYqFX",
+      "Onboarding Questionnaire#node:-Bl42VM"
+    ]
+  },
+  "css:width": {
+    "literal<css-length>": [
+      "Snapchat#node:7TjYqFX",
+      "Snapchat#node:9uv9mcE",
+      "Snapchat#node:9uv9mcE"
+    ],
+    "conditional": [
+      "Onboarding Questionnaire#node:cPE0KcM",
+      "Onboarding Questionnaire v2#node:cPE0KcM",
+      "Prequel: Photo & Video Editor#node:pwpxLxt"
+    ],
+    "tombstone": [
+      "Multi-Page | Two Plans#node:iHfAWLo",
+      "Multi-Page | Two Plans#node:VU-ZYV8",
+      "Multi-Page | Two Plans#node:dnb9fmU"
+    ]
+  },
+  "prop:image": {
+    "literal<property-image>": [
+      "Snapchat#node:9uv9mcE",
+      "Snapchat#node:9uv9mcE",
+      "Snapchat#node:dn7OhmT"
+    ],
+    "conditional": [
+      "Blinkist Onboarding Template#node:ppMqvv_",
+      "Blinkist Onboarding Template#node:GE9DG5g",
+      "Motivation#node:4pzW79c"
+    ]
+  },
+  "prop:text": {
+    "literal<property-text>": [
+      "Snapchat#node:QS47N5i",
+      "Snapchat#node:QS47N5i",
+      "Snapchat#node:hXOuOAl"
+    ],
+    "conditional": [
+      "Multi-Page | Two Plans#node:EgJ10pB",
+      "Multi-Page | Two Plans#node:Mkg2vK-",
+      "Multi-Page | Two Plans#node:YnifWae"
+    ],
+    "tombstone": [
+      "Scenic Motorcycle Navigation#node:MgPtqtD"
+    ]
+  },
+  "css:color": {
+    "literal<css-color>": [
+      "Snapchat#node:QS47N5i",
+      "Snapchat#node:hXOuOAl",
+      "Snapchat#node:o9oU3Nf"
+    ],
+    "conditional": [
+      "Snapchat#node:QS47N5i",
+      "Snapchat#node:hXOuOAl",
+      "Snapchat#node:o9oU3Nf"
+    ],
+    "tombstone": [
+      "Snapchat#node:_BNToQ8",
+      "Snapchat#node:wrLA2kG",
+      "NordVPN #node:Wkrwc_k"
+    ],
+    "<default>": [
+      "Vixer#node:nyzAFn7",
+      "CoinStats#node:0a6aaoL",
+      "CoinStats#node:mnDaSjU"
+    ]
+  },
+  "css:font": {
+    "literal<css-font>": [
+      "Snapchat#node:QS47N5i",
+      "Snapchat#node:hXOuOAl",
+      "Snapchat#node:o9oU3Nf"
+    ],
+    "conditional": [
+      "Onboarding Questionnaire#node:EU9MUH5",
+      "Onboarding Questionnaire#node:erawaYH",
+      "Onboarding Questionnaire#node:43vUy4H"
+    ],
+    "tombstone": [
+      "Onboarding Questionnaire#node:8210fEV",
+      "Onboarding Questionnaire#node:TARhnT8",
+      "Onboarding Questionnaire#node:47o8j-3"
+    ]
+  },
+  "css:fontSize": {
+    "literal<css-length>": [
+      "Snapchat#node:QS47N5i",
+      "Snapchat#node:QS47N5i",
+      "Snapchat#node:hXOuOAl"
+    ],
+    "tombstone": [
+      "Cleaner Guru: Clean Up Storage#node:opQXfj6",
+      "Cleaner Guru: Clean Up Storage#node:Ej1nf8X",
+      "LUDEX Sports Card Scanner #node:HUZ0iA5"
+    ],
+    "conditional": [
+      "Flightradar24 | Flight Tracker#node:KjQes_u",
+      "Flightradar24 | Flight Tracker#node:0CZ1Ubs",
+      "Flightradar24 | Flight Tracker#node:-BxjaoC"
+    ]
+  },
+  "css:textAlign": {
+    "literal<css-string>": [
+      "Snapchat#node:QS47N5i",
+      "Snapchat#node:hXOuOAl",
+      "Snapchat#node:o9oU3Nf"
+    ],
+    "tombstone": [
+      "Flightradar24 | Flight Tracker#node:Ogsy1Gk",
+      "Rapchat#node:Ljh1kdX",
+      "Fig#node:-HSCaj1"
+    ]
+  },
+  "css:borderTopLeftRadius;borderTopRightRadius;borderBottomRightRadius;borderBottomLeftRadius": {
+    "literal<css-length>": [
+      "Snapchat#node:GSS3b0F",
+      "Snapchat#node:dn7OhmT",
+      "Snapchat#node:n0yBvWB"
+    ],
+    "conditional": [
+      "Snapchat#node:WaTmEQo",
+      "Snapchat#node:WTTbSh0",
+      "Onboarding Questionnaire#node:B6rOI__"
+    ],
+    "tombstone": [
+      "Onboarding Questionnaire v2#node:atphXoY",
+      "Picture This - Plant Identifier#node:1wusUKe",
+      "Picture This - Plant Identifier#node:rb4CF2-"
+    ]
+  },
+  "css:lineHeight": {
+    "literal<css-length>": [
+      "Snapchat#node:P9jX0AW",
+      "Snapchat#node:Gb5sfsu",
+      "Snapchat#node:vUrk-AD"
+    ],
+    "tombstone": [
+      "Multi-Page | Two Plans#node:6WBp2AK",
+      "Multi-Page | Two Plans#node:YnifWae",
+      "Multi-Page | Single Plan + Exit Offer#node:6WBp2AK"
+    ]
+  },
+  "prop:click-behavior": {
+    "literal<property-click-behavior>": [
+      "Snapchat#node:WaTmEQo",
+      "Snapchat#node:WaTmEQo",
+      "Snapchat#node:78kZafK"
+    ],
+    "conditional": [
+      "Onboarding Questionnaire#node:ymlk56s",
+      "Onboarding Questionnaire#node:QkwWuCW",
+      "Onboarding Questionnaire#node:hMHLfg1"
+    ],
+    "tombstone": [
+      "Multi-Page | Two Plans#node:0CUxxLJ",
+      "Multi-Page | Two Plans#node:pHzzhWl",
+      "Multi-Page | Single Plan + Exit Offer#node:0CUxxLJ"
+    ]
+  },
+  "css:zIndex": {
+    "tombstone": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:eEp5z7a",
+      "Multi-Page | Two Plans#node:YnifWae"
+    ],
+    "literal<css-string>": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:O2sdJq7",
+      "Snapchat#node:O2sdJq7"
+    ],
+    "conditional": [
+      "PictureThis Onboarding Template#node:HjXFCke",
+      "PictureThis Onboarding Template#node:EX2hCTn",
+      "Exit Offer#node:8D9yh0-"
+    ]
+  },
+  "css:boxShadow": {
+    "tombstone": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:O2sdJq7",
+      "Snapchat#node:eEp5z7a"
+    ],
+    "literal<css-box-shadow>": [
+      "Picture This - Plant Identifier#node:NtBwONw",
+      "Cleaner Guru: Clean Up Storage#node:X6lu6M-",
+      "CamScanner - PDF Scanner App#node:lBiNnyZ"
+    ],
+    "conditional": [
+      "1Password: Password Manager#node:tBG5MII",
+      "1Password: Password Manager#node:hqF-yj9",
+      "Yubo#node:lQ2XMnb"
+    ]
+  },
+  "css:position": {
+    "tombstone": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:eEp5z7a",
+      "Multi-Page | Two Plans#node:gQSHUt9"
+    ],
+    "literal<css-string>": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:O2sdJq7",
+      "Snapchat#node:z06rT3S"
+    ]
+  },
+  "css:bottom": {
+    "tombstone": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:eEp5z7a",
+      "Multi-Page | Two Plans#node:gQSHUt9"
+    ],
+    "literal<css-length>": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:O2sdJq7",
+      "Snapchat#node:eEp5z7a"
+    ],
+    "conditional": [
+      "PiCal#node:sxaaZHh",
+      "Mojo#node:U1SiR9P",
+      "Zest#node:wAvK0St"
+    ]
+  },
+  "css:right": {
+    "tombstone": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:eEp5z7a",
+      "Multi-Page | Two Plans#node:gQSHUt9"
+    ],
+    "literal<css-length>": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:O2sdJq7",
+      "Snapchat#node:_eRm_1U"
+    ],
+    "conditional": [
+      "Citizen#node:NxTPwuN",
+      "1 Second Everyday Journal#node:CGIl6iv"
+    ]
+  },
+  "css:left": {
+    "tombstone": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:eEp5z7a",
+      "Multi-Page | Two Plans#node:gQSHUt9"
+    ],
+    "literal<css-length>": [
+      "Snapchat#node:hdzp_ZW",
+      "Snapchat#node:O2sdJq7",
+      "Snapchat#node:z06rT3S"
+    ],
+    "conditional": [
+      "Cleaner Guru: Clean Up Storage#node:P0yU1Fe",
+      "Peloton #node:0aMWvtq",
+      "LUDEX Sports Card Scanner #node:5GCluMM"
+    ]
+  },
+  "css:maxWidth": {
+    "literal<css-length>": [
+      "Snapchat#node:78kZafK",
+      "Snapchat#node:UoUcOJu",
+      "Snapchat#node:dxUtSst"
+    ],
+    "tombstone": [
+      "Prequel: Photo & Video Editor#node:7yffFrm",
+      "Prequel: Photo & Video Editor#node:pwpxLxt",
+      "Prequel: Photo & Video Editor#node:TPwwyYw"
+    ],
+    "conditional": [
+      "Getting Started with Flows#node:gXq-7It",
+      "Getting Started with Flows#node:4mypYRY",
+      "Getting Started with Flows#node:SSF0KxU"
+    ]
+  },
+  "css:top": {
+    "literal<css-length>": [
+      "Snapchat#node:z06rT3S",
+      "Snapchat#node:_eRm_1U",
+      "Snapchat#node:cOJMkVa"
+    ],
+    "tombstone": [
+      "Multi-Page | Two Plans#node:gQSHUt9",
+      "Multi-Page | Single Plan + Exit Offer#node:gQSHUt9",
+      "Sports Betting#node:NsVFImw"
+    ],
+    "conditional": [
+      "Mojo#node:yMG9H5N",
+      "Outside#node:aBS6yJe",
+      "Speak#node:ZVS3qIz"
+    ]
+  },
+  "css:transform[translate]": {
+    "literal<css-transform-translate>": [
+      "Snapchat#node:z06rT3S",
+      "Snapchat#node:cOJMkVa",
+      "Multi-Page | Two Plans#node:deCx3I4"
+    ],
+    "tombstone": [
+      "Sports Betting#node:CmiutJf",
+      "Cleaner Guru: Clean Up Storage#node:P0yU1Fe",
+      "Hily Dating #node:gsrZgzV"
+    ],
+    "conditional": [
+      "Picture This - Plant Identifier#node:NtBwONw",
+      "Picture This - Plant Identifier#node:NtBwONw",
+      "Cleaner Guru: Clean Up Storage#node:X6lu6M-"
+    ]
+  },
+  "css:display": {
+    "literal<css-string>": [
+      "Snapchat#node:9-WzFPA",
+      "Snapchat#node:h6amlNr",
+      "Onboarding Questionnaire#node:02DcCMD"
+    ],
+    "conditional": [
+      "Snapchat#node:kiaBbiY",
+      "Snapchat#node:GRB0MU7",
+      "Snapchat#node:lJeFoAP"
+    ],
+    "tombstone": [
+      "Single-Page | Two Plans#node:dSYqaDD",
+      "Single-Page | Two Plans#node:Sgz-M0J",
+      "Single-Page | Two Plans#node:hlQ1VQV"
+    ]
+  },
+  "css:backdropFilter": {
+    "tombstone": [
+      "Snapchat#node:_eRm_1U",
+      "Snapchat#node:cNWmubu",
+      "Multi-Page | Two Plans#node:Axfk0KJ"
+    ],
+    "literal<css-backdrop-filter>": [
+      "Sports Betting#node:4GSzY1_",
+      "Sports Betting#node:N8R8FeC",
+      "Sports Betting#node:CmiutJf"
+    ],
+    "conditional": [
+      "Coin Stats - Halloween#node:Mt-Djjj",
+      "Special Offer#node:Mt-Djjj",
+      "Wallpaper Maker#node:JLLxmPW"
+    ]
+  },
+  "prop:icon": {
+    "literal<property-icon>": [
+      "Snapchat#node:-zDXZBD",
+      "Snapchat#node:-zDXZBD",
+      "Snapchat#node:ez2MJwA"
+    ],
+    "conditional": [
+      "Transaction Abandon Survey#node:9rKtese",
+      "Cancellation Recovery Template#node:9rKtese",
+      "SuperApp#node:fFavzPq"
+    ]
+  },
+  "css:borderColor": {
+    "conditional": [
+      "Snapchat#node:sMuiWqt",
+      "Snapchat#node:lr5Ijnq",
+      "Snapchat#node:e1epxlM"
+    ],
+    "literal<css-color>": [
+      "Sports Betting#node:4GSzY1_",
+      "Sports Betting#node:N8R8FeC",
+      "Sports Betting#node:UeyFVhk"
+    ],
+    "tombstone": [
+      "Sports Betting#node:tmDSOMK",
+      "Sports Betting#node:dT_EeGL",
+      "Sports Betting#node:pLQUv55"
+    ]
+  },
+  "css:borderTopWidth;borderRightWidth;borderBottomWidth;borderLeftWidth": {
+    "literal<css-length>": [
+      "Snapchat#node:sMuiWqt",
+      "Snapchat#node:lr5Ijnq",
+      "Snapchat#node:e1epxlM"
+    ],
+    "tombstone": [
+      "Sports Betting#node:6QBLNeS",
+      "Sports Betting#node:S14FoXG",
+      "Sports Betting#node:CmiutJf"
+    ],
+    "conditional": [
+      "Scenic Motorcycle Navigation#node:y3TnYxw",
+      "Scenic Motorcycle Navigation#node:IrdjVId",
+      "Scenic Motorcycle Navigation#node:36XhQV8"
+    ]
+  },
+  "css:textDecoration": {
+    "literal<css-string>": [
+      "Snapchat#node:bPNLstX",
+      "Onboarding Questionnaire#node:RlYW09s",
+      "Onboarding Questionnaire#node:x840YDq"
+    ],
+    "tombstone": [
+      "Multi-Page | Single Plan + Exit Offer#node:nngvu_J",
+      "Single-Page | Single Plan + Exit Offer#node:KxP9WWC",
+      "Sports Betting#node:Kwm4fVP"
+    ]
+  },
+  "css:transform[scale]": {
+    "literal<css-transform-scale>": [
+      "Snapchat#node:BtzkjKm",
+      "Snapchat#node:idg5qI3",
+      "Snapchat#node:J02BMek"
+    ],
+    "conditional": [
+      "GOSPEL#node:RFPiZHo",
+      "GOSPEL#node:YegFq1n",
+      "GOSPEL#node:dsx8UHB"
+    ],
+    "tombstone": [
+      "NordVPN #node:-Yl3qHs",
+      "NordVPN #node:0NqJNQw",
+      "Strava #node:868jgVu"
+    ]
+  },
+  "css:borderTopLeftRadius": {
+    "literal<css-length>": [
+      "Snapchat#node:JnJYMBT",
+      "Multi-Page | Two Plans#node:dnb9fmU",
+      "Multi-Page | Single Plan + Exit Offer#node:dnb9fmU"
+    ],
+    "conditional": [
+      "Onboarding Questionnaire#node:rFqQuU9",
+      "Onboarding Questionnaire#node:QJC6d47",
+      "Onboarding Questionnaire#node:SmNvrXL"
+    ],
+    "tombstone": [
+      "Multi-Page | Two Plans#node:Mkg2vK-",
+      "Multi-Page | Single Plan + Exit Offer#node:Mkg2vK-",
+      "Single-Page | Two Plans#node:Mkg2vK-"
+    ]
+  },
+  "css:borderTopRightRadius": {
+    "literal<css-length>": [
+      "Snapchat#node:JnJYMBT",
+      "Multi-Page | Two Plans#node:dnb9fmU",
+      "Multi-Page | Single Plan + Exit Offer#node:dnb9fmU"
+    ],
+    "conditional": [
+      "Onboarding Questionnaire#node:rFqQuU9",
+      "Onboarding Questionnaire#node:QJC6d47",
+      "Onboarding Questionnaire#node:SmNvrXL"
+    ],
+    "tombstone": [
+      "Multi-Page | Two Plans#node:Mkg2vK-",
+      "Multi-Page | Single Plan + Exit Offer#node:Mkg2vK-",
+      "Single-Page | Two Plans#node:Mkg2vK-"
+    ]
+  },
+  "css:paddingLeft": {
+    "conditional": [
+      "Onboarding Questionnaire#node:vZRc5k5",
+      "Onboarding Questionnaire v2#node:vZRc5k5"
+    ],
+    "literal<css-length>": [
+      "Picture This - Plant Identifier#node:LXn-2QT",
+      "NordVPN #node:wC_UUTD",
+      "Prequel: Photo & Video Editor#node:sCTDo73"
+    ],
+    "tombstone": [
+      "My Fitness Pal #node:k-l9dMu",
+      "My Fitness Pal #node:CH9RVnc",
+      "My Fitness Pal #node:gm0TVUE"
+    ]
+  },
+  "css:paddingRight": {
+    "conditional": [
+      "Onboarding Questionnaire#node:Fdc7zXR",
+      "Onboarding Questionnaire v2#node:Fdc7zXR"
+    ],
+    "literal<css-length>": [
+      "Picture This - Plant Identifier#node:LXn-2QT",
+      "Picture This - Plant Identifier#node:LXn-2QT",
+      "Picture This - Plant Identifier#node:SGJSHhq"
+    ],
+    "tombstone": [
+      "NordVPN #node:f_P6a2n",
+      "Cleaner Guru: Clean Up Storage#node:8Z6fdNW",
+      "CamScanner - PDF Scanner App#node:lZfcxm6"
+    ]
+  },
+  "css:transition": {
+    "literal<css-transition>": [
+      "Onboarding Questionnaire#node:GF-_wa4",
+      "Onboarding Questionnaire#node:cPE0KcM",
+      "Onboarding Questionnaire#node:ymlk56s"
+    ],
+    "tombstone": [
+      "LUDEX Sports Card Scanner #node:YTFSxo7",
+      "Captions: AI Short-Form Video#node:YTFSxo7",
+      "PictureThis Onboarding Template#node:bYvCps1"
+    ],
+    "conditional": [
+      "Multi Page#node:kDJuVrF",
+      "Duolingo#node:ySoYfSK",
+      "Duolingo#node:jsfIxF1"
+    ]
+  },
+  "css:opacity": {
+    "conditional": [
+      "Onboarding Questionnaire#node:GF-_wa4",
+      "Onboarding Questionnaire#node:ymlk56s",
+      "Onboarding Questionnaire#node:QkwWuCW"
+    ],
+    "tombstone": [
+      "Onboarding Questionnaire#node:cPE0KcM",
+      "Onboarding Questionnaire#node:ZOMmiyC",
+      "Multi-Page | Two Plans#node:vHBwTBE"
+    ],
+    "literal<css-percentage>": [
+      "Multi-Page | Two Plans#node:dSYqaDD",
+      "Multi-Page | Two Plans#node:MPv7t2Z",
+      "Multi-Page | Two Plans#node:UY1Bx8S"
+    ]
+  },
+  "prop:video": {
+    "literal<property-video>": [
+      "Onboarding Questionnaire#node:DukwTWz",
+      "Multi-Page | Two Plans#node:1j8qXTU",
+      "Multi-Page | Two Plans#node:1j8qXTU"
+    ],
+    "conditional": [
+      "Ladder Onboarding Template#node:WK2t1Dl"
+    ]
+  },
+  "css:marginTop": {
+    "literal<css-length>": [
+      "Onboarding Questionnaire#node:H2ofL-I",
+      "Onboarding Questionnaire#node:8210fEV",
+      "Onboarding Questionnaire#node:TARhnT8"
+    ],
+    "tombstone": [
+      "Onboarding Questionnaire#node:ymlk56s",
+      "Onboarding Questionnaire#node:QkwWuCW",
+      "Onboarding Questionnaire#node:hMHLfg1"
+    ],
+    "conditional": [
+      "Game On#node:3ogpKxp",
+      "StepSaga#node:E3IYevP",
+      "Multi-page with video#node:lVBgskh"
+    ]
+  },
+  "css:borderTopStyle;borderRightStyle;borderBottomStyle;borderLeftStyle": {
+    "literal<css-string>": [
+      "Onboarding Questionnaire#node:B6rOI__",
+      "Onboarding Questionnaire#node:UV0DUgO",
+      "Onboarding Questionnaire#node:bsHqhaf"
+    ],
+    "tombstone": [
+      "Prequel: Photo & Video Editor#node:78dKnvI",
+      "Prequel: Photo & Video Editor#node:vRVnD6N",
+      "Prequel: Photo & Video Editor#node:FTT81t_"
+    ],
+    "conditional": [
+      "1 Second Everyday Journal#node:9PQpUxa",
+      "1 Second Everyday Journal#node:O1F5zDx",
+      "1 Second Everyday Journal#node:x6M1OSn"
+    ]
+  },
+  "css:minHeight": {
+    "literal<css-length>": [
+      "Onboarding Questionnaire#node:ITUtV_T",
+      "Multi-Page | Two Plans#node:xgls0pX",
+      "Multi-Page | Single Plan + Exit Offer#node:xgls0pX"
+    ],
+    "tombstone": [
+      "Prequel: Photo & Video Editor#node:7yffFrm",
+      "Prequel: Photo & Video Editor#node:pwpxLxt",
+      "Prequel: Photo & Video Editor#node:TPwwyYw"
+    ]
+  },
+  "prop:lottie": {
+    "literal<property-lottie>": [
+      "Multi-Page | Two Plans#node:nv539Li",
+      "Multi-Page | Two Plans#node:nv539Li",
+      "Multi-Page | Single Plan + Exit Offer#node:nv539Li"
+    ]
+  },
+  "css:marginBottom": {
+    "tombstone": [
+      "Multi-Page | Two Plans#node:UlhvxKp",
+      "Multi-Page | Two Plans#node:xMecjGC",
+      "Multi-Page | Single Plan + Exit Offer#node:UlhvxKp"
+    ],
+    "literal<css-length>": [
+      "Multi-Page | Single Plan + Exit Offer#node:alVO_UE",
+      "Multi-Page | Single Plan + Exit Offer#node:r5DpAfF",
+      "Single-Page | Single Plan + Exit Offer#node:jrgHz5B"
+    ]
+  },
+  "css:textTransform": {
+    "literal<css-string>": [
+      "Multi-Page | Two Plans#node:VFkuCr7",
+      "Multi-Page | Two Plans#node:Mkg2vK-",
+      "Multi-Page | Two Plans#node:cvIEXhp"
+    ],
+    "tombstone": [
+      "Sports Betting#node:MiKRwPU",
+      "Sports Betting#node:0TWzvWq",
+      "Sports Betting#node:n5thvyH"
+    ]
+  },
+  "css:marginLeft": {
+    "tombstone": [
+      "Multi-Page | Two Plans#node:sqpPPyt",
+      "Multi-Page | Two Plans#node:gxqYjVD",
+      "Multi-Page | Single Plan + Exit Offer#node:sqpPPyt"
+    ],
+    "literal<css-length>": [
+      "Picture This - Plant Identifier#node:NtBwONw",
+      "Cleaner Guru: Clean Up Storage#node:X6lu6M-",
+      "CamScanner - PDF Scanner App#node:lBiNnyZ"
+    ]
+  },
+  "prop:drawer": {
+    "literal<property-drawer>": [
+      "Multi-Page | Single Plan + Exit Offer#node:_RYf7Hb",
+      "Multi-Page | Single Plan + Exit Offer#node:_RYf7Hb",
+      "Single-Page | Single Plan + Exit Offer#node:keKh0Nl"
+    ]
+  },
+  "css:maxHeight": {
+    "literal<css-length>": [
+      "Multi-Page | Single Plan + Exit Offer#node:_RYf7Hb",
+      "Single-Page | Single Plan + Exit Offer#node:keKh0Nl",
+      "Strava #node:3wZblDN"
+    ],
+    "tombstone": [
+      "Hily Dating #node:pwJuoOQ",
+      "Nebula: Horoscope & Astrology#node:pwJuoOQ",
+      "Nebula: Horoscope & Astrology#node:BILS_A2"
+    ]
+  },
+  "css:letterSpacing": {
+    "tombstone": [
+      "Sports Betting#node:MiKRwPU",
+      "Sports Betting#node:0TWzvWq",
+      "Sports Betting#node:5ZB4I0I"
+    ],
+    "literal<css-length>": [
+      "Picture This - Plant Identifier#node:8dQ4auR",
+      "My Fitness Pal #node:j_abH3d",
+      "Facetune #node:Gy0MsiT"
+    ],
+    "conditional": [
+      "Yoga-Go: Chair Yoga & Tai Chi#node:3ltX7Y7",
+      "Fizz#node:pw8mnNO",
+      "Fizz#node:32whP0_"
+    ]
+  },
+  "css:borderBottomLeftRadius": {
+    "literal<css-length>": [
+      "Picture This - Plant Identifier#node:1wusUKe",
+      "CamScanner - PDF Scanner App#node:cc2HA6Q",
+      "CamScanner - PDF Scanner App#node:REPKt76"
+    ],
+    "conditional": [
+      "Onhunt #node:Rwl7D9z",
+      "Blinkist Onboarding Template#node:bP_2i_J",
+      "PictureThis Onboarding Template#node:5e0Yubj"
+    ],
+    "tombstone": [
+      "Onhunt #node:nA7DBq0",
+      "Game Changer #node:La_Ge8-",
+      "Game Changer #node:WbU2_8k"
+    ]
+  },
+  "css:borderBottomRightRadius": {
+    "literal<css-length>": [
+      "Picture This - Plant Identifier#node:rb4CF2-",
+      "CamScanner - PDF Scanner App#node:REPKt76",
+      "DuoLingo #node:86tVBGP"
+    ],
+    "conditional": [
+      "Onhunt #node:Rwl7D9z",
+      "Blinkist Onboarding Template#node:bP_2i_J",
+      "PictureThis Onboarding Template#node:5e0Yubj"
+    ],
+    "tombstone": [
+      "Onhunt #node:nA7DBq0",
+      "Game Changer #node:La_Ge8-",
+      "Game Changer #node:WbU2_8k"
+    ]
+  },
+  "css:transform[rotate]": {
+    "tombstone": [
+      "Prequel: Photo & Video Editor#node:lxO8wwk",
+      "Strava #node:cQrgz5z"
+    ],
+    "literal<css-transform-rotate>": [
+      "Ultimate Guitar: Chords & Tabs#node:5IITkUa",
+      "Dreamy#node:ibVDTu3",
+      "Calorie Tracking#node:qbhWz-b"
+    ],
+    "conditional": [
+      "Mimo#node:hkwsfAi",
+      "Mimo#node:lCY8jti",
+      "Mimo#node:lCY8jti"
+    ]
+  },
+  "css:marginRight": {
+    "tombstone": [
+      "Peloton #node:enMPOgX",
+      "Grindr - Gay Dating and Chat#node:3xxg26d",
+      "Fitbit: Health & Fitness#node:hn0H3n-"
+    ],
+    "literal<css-length>": [
+      "Transaction Abandon Survey#node:bJ6DcmU",
+      "Scenic Motorcycle Navigation#node:uJAaLU2",
+      "Getting Started with Flows#node:gXq-7It"
+    ]
+  },
+  "prop:multiple-choice": {
+    "literal<property-multiple-choice>": [
+      "Transaction Abandon Survey#node:7ywaSMK",
+      "Transaction Abandon Survey#node:7ywaSMK",
+      "Blinkist Onboarding Template#node:hPmViTu"
+    ]
+  },
+  "css:filter": {
+    "tombstone": [
+      "Ladder Onboarding Template#node:evb16Nd",
+      "Yubo#node:RfKTPWI",
+      "DocuSnap#node:5GF2eij"
+    ],
+    "conditional": [
+      "Getting Started with Flows#node:DsVhj0k"
+    ],
+    "literal<css-filter>": [
+      "Pigment#node:vpOZm0r",
+      "Scores for NCAA Sports#node:LLv55S4"
+    ]
+  },
+  "prop:indicator": {
+    "literal<property-indicator>": [
+      "Blinkist Onboarding Template#node:fewKBiO",
+      "Blinkist Onboarding Template#node:fewKBiO",
+      "PictureThis Onboarding Template#node:nqcZc3i"
+    ]
+  },
+  "css:textShadow": {
+    "tombstone": [
+      "Getting Started with Flows#node:mcDevjD",
+      "Getting Started with Flows#node:lw1MezS",
+      "Sharpen#node:zJM7PER"
+    ],
+    "literal<css-box-shadow>": [
+      "Multi Page#node:LfptO4Y",
+      "Juiced#node:JScNjXL",
+      "Mr. Arthur#node:yaeuQx_"
+    ]
+  },
+  "css:marginTop;marginBottom": {
+    "tombstone": [
+      "Pixite#node:E754nrk",
+      "Wombo#node:dF8z515",
+      "Yubo#node:wqSxcI4"
+    ],
+    "literal<css-length>": [
+      "Pixite#node:zcCdak5",
+      "Yubo#node:PuPVIV8",
+      "PNK#node:PuPVIV8"
+    ]
+  },
+  "css:minWidth": {
+    "literal<css-length>": [
+      "Pixite#node:HCJUFq3",
+      "Outside#node:jPdfVQt",
+      "Outside#node:DvvPi9G"
+    ],
+    "tombstone": [
+      "Yuno#node:cJ1u3GG",
+      "Yuno#node:PSt0HnA",
+      "Yuno#node:zXgMDvC"
+    ]
+  },
+  "css:marginLeft;marginRight": {
+    "literal<css-length>": [
+      "Yubo#node:Krqvsm5",
+      "Outside#node:Cn8zgYo",
+      "Game On#node:zqqg-7z"
+    ],
+    "tombstone": [
+      "Yubo#node:O1JwQ6N",
+      "Yubo#node:CfUfROv",
+      "PNK#node:CfUfROv"
+    ]
+  }
+}

@@ -1,0 +1,991 @@
+{
+  "fields": {
+    "state:products.selectedIndex": 1547,
+    "state:products.hasIntroductoryOffer": 372,
+    "state:state.enableFreeTrial": 229,
+    "state:params.answerOpened": 207,
+    "state:state.showMore": 117,
+    "state:device.viewPortHeight": 115,
+    "state:products.selected.trialPeriodDays": 109,
+    "state:state.modalOpen": 80,
+    "state:device.interfaceStyle": 71,
+    "state:node.ReCuE6cnEcUf-aU8BkDcZ.currentIndex": 62,
+    "state:state.isChecked": 61,
+    "state:state.question2": 54,
+    "state:state.screenNum": 46,
+    "state:state.activeTab": 42,
+    "state:products.primary.trialPeriodDays": 37,
+    "state:state.planSelected": 31,
+    "state:self.value": 29,
+    "state:state.question3": 28,
+    "state:state.question4": 28,
+    "state:state.question5": 28,
+    "state:state.question1": 22,
+    "state:node.hV3Wz1PWhcKi_jNB9LEhV.childPageIndex": 17,
+    "state:node.-Bl42VM4xnJi891kItCv4.currentIndex": 15,
+    "?": 15,
+    "state:state.showMoreInfo": 15,
+    "state:device.interfaceType": 15,
+    "state:state.freeTrialEnabled": 14,
+    "state:state.step1SelectedOption": 14,
+    "state:state.currentPage": 14,
+    "state:state.pageNumber": 14,
+    "state:state.isAnnualSelected": 13,
+    "state:self.isSelected": 13,
+    "state:state.isPersonalSelected": 13,
+    "state:state.filterLenght": 12,
+    "state:state.answerOpened": 12,
+    "state:state.isMonthlySelected": 11,
+    "state:state.selectedPlanType": 11,
+    "state:state.isProSelected": 11,
+    "state:device.viewPortWidth": 11,
+    "state:state.seeAllPlansSelected": 9,
+    "state:products.secondary.trialPeriodDays": 9,
+    "state:state.secondPageSide": 9,
+    "state:state.tabbedPageIndex": 9,
+    "state:node.MjEVA3Ifjx3Sp9T5kWWPA.childPageIndex": 8,
+    "state:state.creditTotal": 8,
+    "state:node.2lBbtwmSrQDbo9du185-9.currentIndex": 7,
+    "state:state.eliteSelected": 7,
+    "state:state.premiumSelected": 7,
+    "state:node.73Ibw3sn8XpiW37VMbjNh.childPageIndex": 7,
+    "state:products.goldYearly.trialPeriodDays": 7,
+    "state:state.notificationPermissionGiven": 7,
+    "state:state.showingFeatures": 7,
+    "state:state.filterCoachPreference": 6,
+    "state:node.ARqM6yygTX2inNZFuaw-v.childPageIndex": 6,
+    "state:node.hKEnppRrT16VxdeeDkQE4.childPageIndex": 6,
+    "state:state.switch1": 6,
+    "state:state.showMoreInfo2": 6,
+    "state:state.viewAllPlans": 6,
+    "state:node.S14FoXGQno4WkfHpbB5r-.childPageIndex": 5,
+    "state:state.isToggleLeftSelected": 5,
+    "state:self.isCompleted": 5,
+    "state:node.3Kr2iFFk_5O0gU85g1EDS.currentIndex": 5,
+    "state:state.purchaseInitiated": 5,
+    "state:params.purchaseCompleted": 5,
+    "state:state.activePage": 5,
+    "state:node.761lLXeRfg3X-L1vvhPGl.childPageIndex": 4,
+    "state:self.index": 4,
+    "state:state.changeScreen": 4,
+    "state:user.freeTrialEligible": 3,
+    "state:products.quaternary.period": 3,
+    "state:products.goldYearly.trialPeriodMonths": 3,
+    "state:node.Cgk-kbR2Ft0fZa5_mg1sa.childPageIndex": 3,
+    "state:state.filterStyleBodyBuilding": 3,
+    "state:state.filterStyleCrossfit": 3,
+    "state:state.filterStyleHiit": 3,
+    "state:state.filterStyleHybridStrenght": 3,
+    "state:state.filterStylePilates": 3,
+    "state:state.filterStyleYoga": 3,
+    "state:state.filterStyleTreadmil": 3,
+    "state:node.7o_NlPdldWnyY63hWauCX.canGoForward": 3,
+    "state:state.changeToScreen": 3,
+    "state:state.showingExitOffer": 3,
+    "state:products.selected.rawTrialPeriodPrice": 2,
+    "state:node.2Xor9BPF5-oA1JO3t2473.canIncrementIndex": 2,
+    "state:products.primary.periodMonths": 2,
+    "state:state.isXtraSelected": 2,
+    "state:node.hPmViTu_2l1lzc9991icr.hasSelection": 2,
+    "state:node.p4BewWHkmaQ68-6-mFR1x.hasSelection": 2,
+    "state:node.VqfbpNZDOEOSmRCgT5LeB.hasSelection": 2,
+    "state:node.BRimQoakFeBwlkCgKVLRl.flowPosition": 2,
+    "state:self.isFirst": 2,
+    "state:self.isLast": 2,
+    "state:params.purchaseCancelled": 2,
+    "state:node.7o_NlPdldWnyY63hWauCX.canGoBack": 2,
+    "state:self.isCurrent": 2,
+    "state:node.6Zi9WYOYGDWM9P_ZKGW3j.childPageIndex": 2,
+    "state:state.nextScreen": 2,
+    "state:state.showFeatures": 2,
+    "state:state.reminderToggle": 2,
+    "state:state.showingOptions": 2,
+    "state:state.isTrialToggleOn": 1,
+    "state:products.proYearly.trialPeriodDays": 1,
+    "state:products.liteYearly.trialPeriodDays": 1,
+    "state:products.proMonthly.trialPeriodDays": 1,
+    "state:products.liteMonthly.trialPeriodDays": 1,
+    "state:products.goldMonthly.trialPeriodDays": 1,
+    "state:products.silverYearly.trialPeriodDays": 1,
+    "state:products.silverMonthly.trialPeriodDays": 1,
+    "state:state.alreadyHadFreeTrial": 1,
+    "state:products.tertiary.trialPeriodDays": 1,
+    "state:state.showingAllPlans": 1
+  },
+  "operators": {
+    "=": 3402,
+    ">": 203,
+    "<=": 104,
+    "!=": 90,
+    "?": 15,
+    "<": 6,
+    ">=": 6,
+    "contains": 2
+  },
+  "combos": [
+    {
+      "field": "state:products.selectedIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 1537
+    },
+    {
+      "field": "state:products.hasIntroductoryOffer",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 372
+    },
+    {
+      "field": "state:state.enableFreeTrial",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 229
+    },
+    {
+      "field": "state:params.answerOpened",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 171
+    },
+    {
+      "field": "state:state.showMore",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 117
+    },
+    {
+      "field": "state:products.selected.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 108
+    },
+    {
+      "field": "state:device.viewPortHeight",
+      "op": "<=",
+      "valueType": "variable-number",
+      "count": 96
+    },
+    {
+      "field": "state:state.modalOpen",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 80
+    },
+    {
+      "field": "state:device.interfaceStyle",
+      "op": "=",
+      "valueType": "variable-string",
+      "count": 69
+    },
+    {
+      "field": "state:state.isChecked",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 61
+    },
+    {
+      "field": "state:node.ReCuE6cnEcUf-aU8BkDcZ.currentIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 50
+    },
+    {
+      "field": "state:state.question2",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 48
+    },
+    {
+      "field": "state:state.activeTab",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 41
+    },
+    {
+      "field": "state:params.answerOpened",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 36
+    },
+    {
+      "field": "state:products.primary.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 35
+    },
+    {
+      "field": "state:state.planSelected",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 31
+    },
+    {
+      "field": "state:state.screenNum",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 31
+    },
+    {
+      "field": "state:self.value",
+      "op": "=",
+      "valueType": "variable-string",
+      "count": 29
+    },
+    {
+      "field": "state:state.question3",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 24
+    },
+    {
+      "field": "state:state.question4",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 24
+    },
+    {
+      "field": "state:state.question5",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 24
+    },
+    {
+      "field": "state:state.question1",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 18
+    },
+    {
+      "field": "state:node.hV3Wz1PWhcKi_jNB9LEhV.childPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 17
+    },
+    {
+      "field": "state:device.viewPortHeight",
+      "op": ">",
+      "valueType": "variable-number",
+      "count": 16
+    },
+    {
+      "field": "state:node.-Bl42VM4xnJi891kItCv4.currentIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 15
+    },
+    {
+      "field": "?",
+      "op": "?",
+      "valueType": "?",
+      "count": 15
+    },
+    {
+      "field": "state:state.showMoreInfo",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 15
+    },
+    {
+      "field": "state:device.interfaceType",
+      "op": "=",
+      "valueType": "variable-string",
+      "count": 15
+    },
+    {
+      "field": "state:state.freeTrialEnabled",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 14
+    },
+    {
+      "field": "state:state.step1SelectedOption",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 14
+    },
+    {
+      "field": "state:state.currentPage",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 14
+    },
+    {
+      "field": "state:state.isAnnualSelected",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 13
+    },
+    {
+      "field": "state:self.isSelected",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 13
+    },
+    {
+      "field": "state:state.isPersonalSelected",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 13
+    },
+    {
+      "field": "state:node.ReCuE6cnEcUf-aU8BkDcZ.currentIndex",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 12
+    },
+    {
+      "field": "state:state.filterLenght",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 12
+    },
+    {
+      "field": "state:state.isMonthlySelected",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 11
+    },
+    {
+      "field": "state:state.selectedPlanType",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 11
+    },
+    {
+      "field": "state:products.selectedIndex",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 10
+    },
+    {
+      "field": "state:state.isProSelected",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 10
+    },
+    {
+      "field": "state:state.pageNumber",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 10
+    },
+    {
+      "field": "state:state.seeAllPlansSelected",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 9
+    },
+    {
+      "field": "state:products.secondary.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 9
+    },
+    {
+      "field": "state:state.answerOpened",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 9
+    },
+    {
+      "field": "state:state.tabbedPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 9
+    },
+    {
+      "field": "state:node.MjEVA3Ifjx3Sp9T5kWWPA.childPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 8
+    },
+    {
+      "field": "state:state.creditTotal",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 8
+    },
+    {
+      "field": "state:node.2lBbtwmSrQDbo9du185-9.currentIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 7
+    },
+    {
+      "field": "state:state.eliteSelected",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 7
+    },
+    {
+      "field": "state:state.premiumSelected",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 7
+    },
+    {
+      "field": "state:node.73Ibw3sn8XpiW37VMbjNh.childPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 7
+    },
+    {
+      "field": "state:products.goldYearly.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 7
+    },
+    {
+      "field": "state:state.notificationPermissionGiven",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 7
+    },
+    {
+      "field": "state:state.screenNum",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 7
+    },
+    {
+      "field": "state:device.viewPortWidth",
+      "op": "<=",
+      "valueType": "variable-number",
+      "count": 7
+    },
+    {
+      "field": "state:state.showingFeatures",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 7
+    },
+    {
+      "field": "state:state.question2",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 6
+    },
+    {
+      "field": "state:state.secondPageSide",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 6
+    },
+    {
+      "field": "state:state.filterCoachPreference",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 6
+    },
+    {
+      "field": "state:node.ARqM6yygTX2inNZFuaw-v.childPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 6
+    },
+    {
+      "field": "state:node.hKEnppRrT16VxdeeDkQE4.childPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 6
+    },
+    {
+      "field": "state:state.switch1",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 6
+    },
+    {
+      "field": "state:state.viewAllPlans",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 6
+    },
+    {
+      "field": "state:node.S14FoXGQno4WkfHpbB5r-.childPageIndex",
+      "op": "=",
+      "valueType": "css-string",
+      "count": 5
+    },
+    {
+      "field": "state:state.isToggleLeftSelected",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 5
+    },
+    {
+      "field": "state:self.isCompleted",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 5
+    },
+    {
+      "field": "state:state.purchaseInitiated",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 5
+    },
+    {
+      "field": "state:params.purchaseCompleted",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 5
+    },
+    {
+      "field": "state:state.showMoreInfo2",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 5
+    },
+    {
+      "field": "state:state.screenNum",
+      "op": ">",
+      "valueType": "variable-number",
+      "count": 5
+    },
+    {
+      "field": "state:state.question1",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:state.question3",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:state.question4",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:state.question5",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:node.761lLXeRfg3X-L1vvhPGl.childPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:node.3Kr2iFFk_5O0gU85g1EDS.currentIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:self.index",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:state.activePage",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:state.changeScreen",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:state.pageNumber",
+      "op": ">",
+      "valueType": "variable-number",
+      "count": 4
+    },
+    {
+      "field": "state:user.freeTrialEligible",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:products.quaternary.period",
+      "op": "=",
+      "valueType": "?",
+      "count": 3
+    },
+    {
+      "field": "state:products.goldYearly.trialPeriodMonths",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 3
+    },
+    {
+      "field": "state:node.Cgk-kbR2Ft0fZa5_mg1sa.childPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 3
+    },
+    {
+      "field": "state:state.filterStyleBodyBuilding",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:state.filterStyleCrossfit",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:state.filterStyleHiit",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:state.filterStyleHybridStrenght",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:state.filterStylePilates",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:state.filterStyleYoga",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:state.filterStyleTreadmil",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:node.7o_NlPdldWnyY63hWauCX.canGoForward",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:state.screenNum",
+      "op": "<",
+      "valueType": "variable-number",
+      "count": 3
+    },
+    {
+      "field": "state:state.changeToScreen",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 3
+    },
+    {
+      "field": "state:state.showingExitOffer",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 3
+    },
+    {
+      "field": "state:state.answerOpened",
+      "op": "!=",
+      "valueType": "variable-number",
+      "count": 3
+    },
+    {
+      "field": "state:node.2Xor9BPF5-oA1JO3t2473.canIncrementIndex",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:state.isXtraSelected",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:state.secondPageSide",
+      "op": ">",
+      "valueType": "variable-number",
+      "count": 2
+    },
+    {
+      "field": "state:node.hPmViTu_2l1lzc9991icr.hasSelection",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:node.p4BewWHkmaQ68-6-mFR1x.hasSelection",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:node.VqfbpNZDOEOSmRCgT5LeB.hasSelection",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:self.isFirst",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:self.isLast",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:params.purchaseCancelled",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:node.7o_NlPdldWnyY63hWauCX.canGoBack",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:self.isCurrent",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:device.interfaceStyle",
+      "op": "contains",
+      "valueType": "variable-string",
+      "count": 2
+    },
+    {
+      "field": "state:state.nextScreen",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:state.showFeatures",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:state.reminderToggle",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:device.viewPortWidth",
+      "op": "<",
+      "valueType": "variable-number",
+      "count": 2
+    },
+    {
+      "field": "state:state.showingOptions",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 2
+    },
+    {
+      "field": "state:device.viewPortWidth",
+      "op": ">",
+      "valueType": "variable-number",
+      "count": 2
+    },
+    {
+      "field": "state:device.viewPortHeight",
+      "op": ">=",
+      "valueType": "variable-number",
+      "count": 2
+    },
+    {
+      "field": "state:state.isTrialToggleOn",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 1
+    },
+    {
+      "field": "state:device.viewPortHeight",
+      "op": "<",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:products.selected.rawTrialPeriodPrice",
+      "op": "=",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.selected.rawTrialPeriodPrice",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.primary.periodMonths",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.proYearly.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.liteYearly.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.proMonthly.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.liteMonthly.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.goldMonthly.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.silverYearly.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.silverMonthly.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:state.secondPageSide",
+      "op": ">=",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:node.BRimQoakFeBwlkCgKVLRl.flowPosition",
+      "op": ">=",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:node.BRimQoakFeBwlkCgKVLRl.flowPosition",
+      "op": "<=",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:node.3Kr2iFFk_5O0gU85g1EDS.currentIndex",
+      "op": ">",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:products.primary.trialPeriodDays",
+      "op": "=",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:products.primary.periodMonths",
+      "op": "=",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:node.6Zi9WYOYGDWM9P_ZKGW3j.childPageIndex",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:node.6Zi9WYOYGDWM9P_ZKGW3j.childPageIndex",
+      "op": "=",
+      "valueType": "css-string",
+      "count": 1
+    },
+    {
+      "field": "state:state.isProSelected",
+      "op": "=",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:products.primary.trialPeriodDays",
+      "op": ">",
+      "valueType": "?",
+      "count": 1
+    },
+    {
+      "field": "state:state.showMoreInfo2",
+      "op": "=",
+      "valueType": "?",
+      "count": 1
+    },
+    {
+      "field": "state:state.alreadyHadFreeTrial",
+      "op": "=",
+      "valueType": "?",
+      "count": 1
+    },
+    {
+      "field": "state:state.activeTab",
+      "op": ">=",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:state.activePage",
+      "op": ">=",
+      "valueType": "variable-number",
+      "count": 1
+    },
+    {
+      "field": "state:products.tertiary.trialPeriodDays",
+      "op": ">",
+      "valueType": "variable-string",
+      "count": 1
+    },
+    {
+      "field": "state:state.showingAllPlans",
+      "op": "=",
+      "valueType": "variable-boolean",
+      "count": 1
+    },
+    {
+      "field": "state:products.selected.trialPeriodDays",
+      "op": "=",
+      "valueType": "variable-string",
+      "count": 1
+    }
+  ]
+}

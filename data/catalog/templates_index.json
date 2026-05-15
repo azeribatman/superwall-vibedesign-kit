@@ -1,0 +1,4148 @@
+[
+  {
+    "id": 108850,
+    "name": "Snapchat",
+    "nodeCount": 305,
+    "nodeTypes": {
+      "stack": 70,
+      "navigation": 1,
+      "img": 8,
+      "text": 32,
+      "icon": 8
+    },
+    "uniqueNamesCount": 17,
+    "previews": [
+      {
+        "id": 665686,
+        "active": true,
+        "identifier": "8O-sjBw_O_-dYZC4isHQq",
+        "url": "https://paywall-screenshots.superwall.com/8O-sjBw_O_-dYZC4isHQq.png",
+        "paywallId": 108850
+      }
+    ]
+  },
+  {
+    "id": 112279,
+    "name": "Onboarding Questionnaire",
+    "nodeCount": 358,
+    "nodeTypes": {
+      "navigation": 1,
+      "stack": 80,
+      "icon": 3,
+      "video": 1,
+      "text": 74,
+      "img": 2
+    },
+    "uniqueNamesCount": 39,
+    "previews": [
+      {
+        "id": 683293,
+        "active": true,
+        "identifier": "G3VvIaA2vLySwNFubaEKA",
+        "url": "https://paywall-screenshots.superwall.com/G3VvIaA2vLySwNFubaEKA.png",
+        "paywallId": 112279
+      }
+    ]
+  },
+  {
+    "id": 118403,
+    "name": "Multi-Page | Two Plans",
+    "nodeCount": 373,
+    "nodeTypes": {
+      "text": 33,
+      "stack": 48,
+      "icon": 3,
+      "navigation": 1,
+      "video": 1,
+      "lottie": 1,
+      "img": 10
+    },
+    "uniqueNamesCount": 49,
+    "previews": [
+      {
+        "id": 1054626,
+        "active": true,
+        "identifier": "w3iXi6G2c8O5YIThhXPmn",
+        "url": "https://paywall-screenshots.superwall.com/w3iXi6G2c8O5YIThhXPmn.png",
+        "paywallId": 118403
+      }
+    ]
+  },
+  {
+    "id": 119147,
+    "name": "Multi-Page | Single Plan + Exit Offer",
+    "nodeCount": 402,
+    "nodeTypes": {
+      "text": 43,
+      "stack": 62,
+      "icon": 5,
+      "navigation": 1,
+      "video": 1,
+      "lottie": 1,
+      "img": 12,
+      "drawer": 1
+    },
+    "uniqueNamesCount": 52,
+    "previews": [
+      {
+        "id": 1054650,
+        "active": true,
+        "identifier": "R4rf5wOtlcQmrV6J-erSV",
+        "url": "https://paywall-screenshots.superwall.com/R4rf5wOtlcQmrV6J-erSV.png",
+        "paywallId": 119147
+      }
+    ]
+  },
+  {
+    "id": 119152,
+    "name": "Single-Page | Two Plans",
+    "nodeCount": 373,
+    "nodeTypes": {
+      "text": 26,
+      "stack": 55,
+      "icon": 6,
+      "navigation": 1,
+      "img": 9
+    },
+    "uniqueNamesCount": 39,
+    "previews": [
+      {
+        "id": 1054622,
+        "active": true,
+        "identifier": "G5hNRJCMOmDvk-1RZrFFO",
+        "url": "https://paywall-screenshots.superwall.com/G5hNRJCMOmDvk-1RZrFFO.png",
+        "paywallId": 119152
+      }
+    ]
+  },
+  {
+    "id": 119153,
+    "name": "Single-Page | Single Plan + Exit Offer",
+    "nodeCount": 388,
+    "nodeTypes": {
+      "text": 30,
+      "stack": 61,
+      "icon": 8,
+      "navigation": 1,
+      "img": 11,
+      "drawer": 1
+    },
+    "uniqueNamesCount": 41,
+    "previews": [
+      {
+        "id": 1054620,
+        "active": true,
+        "identifier": "SlI2Up-Gp8mI5CbtBRh3-",
+        "url": "https://paywall-screenshots.superwall.com/SlI2Up-Gp8mI5CbtBRh3-.png",
+        "paywallId": 119153
+      }
+    ]
+  },
+  {
+    "id": 119449,
+    "name": "Sports Betting",
+    "nodeCount": 355,
+    "nodeTypes": {
+      "img": 21,
+      "stack": 70,
+      "text": 30,
+      "icon": 3,
+      "navigation": 1,
+      "lottie": 1
+    },
+    "uniqueNamesCount": 53,
+    "previews": [
+      {
+        "id": 1054632,
+        "active": true,
+        "identifier": "SbW47C8V3Ki-JgAUB2rMv",
+        "url": "https://paywall-screenshots.superwall.com/SbW47C8V3Ki-JgAUB2rMv.png",
+        "paywallId": 119449
+      }
+    ]
+  },
+  {
+    "id": 120295,
+    "name": "GOSPEL",
+    "nodeCount": 225,
+    "nodeTypes": {
+      "stack": 25,
+      "navigation": 1,
+      "img": 1,
+      "text": 16
+    },
+    "uniqueNamesCount": 18,
+    "previews": [
+      {
+        "id": 741343,
+        "active": true,
+        "identifier": "Cd5Unf6xJwKAc0tZ-w6A3",
+        "url": "https://paywall-screenshots.superwall.com/Cd5Unf6xJwKAc0tZ-w6A3.png",
+        "paywallId": 120295
+      }
+    ]
+  },
+  {
+    "id": 134481,
+    "name": "Design Your Trial | Multi-Page",
+    "nodeCount": 446,
+    "nodeTypes": {
+      "text": 41,
+      "stack": 76,
+      "icon": 8,
+      "navigation": 1,
+      "video": 1,
+      "lottie": 1,
+      "img": 10
+    },
+    "uniqueNamesCount": 53,
+    "previews": [
+      {
+        "id": 1054614,
+        "active": true,
+        "identifier": "sBdpeIf9cOkWI7qBKVY8R",
+        "url": "https://paywall-screenshots.superwall.com/sBdpeIf9cOkWI7qBKVY8R.png",
+        "paywallId": 134481
+      }
+    ]
+  },
+  {
+    "id": 138070,
+    "name": "Design Your Trial | Single Page",
+    "nodeCount": 366,
+    "nodeTypes": {
+      "text": 34,
+      "stack": 67,
+      "icon": 8,
+      "navigation": 1,
+      "img": 9
+    },
+    "uniqueNamesCount": 46,
+    "previews": [
+      {
+        "id": 837403,
+        "active": true,
+        "identifier": "9pfQq-LZQDh1h2H-qf0qr",
+        "url": "https://paywall-screenshots.superwall.com/9pfQq-LZQDh1h2H-qf0qr.png",
+        "paywallId": 138070
+      }
+    ]
+  },
+  {
+    "id": 144797,
+    "name": "Onboarding Questionnaire v2",
+    "nodeCount": 376,
+    "nodeTypes": {
+      "navigation": 1,
+      "stack": 88,
+      "icon": 3,
+      "text": 79,
+      "img": 2,
+      "video": 1
+    },
+    "uniqueNamesCount": 43,
+    "previews": [
+      {
+        "id": 829428,
+        "active": true,
+        "identifier": "qal9lqTOU0t5lx2yJuwCi",
+        "url": "https://paywall-screenshots.superwall.com/qal9lqTOU0t5lx2yJuwCi.png",
+        "paywallId": 144797
+      }
+    ]
+  },
+  {
+    "id": 168609,
+    "name": "Picture This - Plant Identifier",
+    "nodeCount": 236,
+    "nodeTypes": {
+      "stack": 46,
+      "navigation": 1,
+      "img": 6,
+      "text": 20,
+      "icon": 6
+    },
+    "uniqueNamesCount": 36,
+    "previews": [
+      {
+        "id": 937228,
+        "active": true,
+        "identifier": "c1yAWRBMcfIJFQ5tdkoDC",
+        "url": "https://paywall-screenshots.superwall.com/c1yAWRBMcfIJFQ5tdkoDC.png",
+        "paywallId": 168609
+      }
+    ]
+  },
+  {
+    "id": 168618,
+    "name": "NordVPN ",
+    "nodeCount": 281,
+    "nodeTypes": {
+      "stack": 55,
+      "text": 26,
+      "navigation": 1,
+      "icon": 5,
+      "img": 6
+    },
+    "uniqueNamesCount": 28,
+    "previews": [
+      {
+        "id": 937359,
+        "active": true,
+        "identifier": "wtjt3a4Lrv8bhtTEQIvvR",
+        "url": "https://paywall-screenshots.superwall.com/wtjt3a4Lrv8bhtTEQIvvR.png",
+        "paywallId": 168618
+      }
+    ]
+  },
+  {
+    "id": 168635,
+    "name": "Cleaner Guru: Clean Up Storage",
+    "nodeCount": 284,
+    "nodeTypes": {
+      "stack": 40,
+      "text": 23,
+      "img": 2
+    },
+    "uniqueNamesCount": 32,
+    "previews": [
+      {
+        "id": 937369,
+        "active": true,
+        "identifier": "njRgbAukauqGbwoVf8RRK",
+        "url": "https://paywall-screenshots.superwall.com/njRgbAukauqGbwoVf8RRK.png",
+        "paywallId": 168635
+      }
+    ]
+  },
+  {
+    "id": 168637,
+    "name": "Prequel: Photo & Video Editor",
+    "nodeCount": 241,
+    "nodeTypes": {
+      "icon": 2,
+      "stack": 42,
+      "text": 23,
+      "img": 20
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 937388,
+        "active": true,
+        "identifier": "ZW_CF5iaIanjPnW8oHzq9",
+        "url": "https://paywall-screenshots.superwall.com/ZW_CF5iaIanjPnW8oHzq9.png",
+        "paywallId": 168637
+      }
+    ]
+  },
+  {
+    "id": 168642,
+    "name": "CamScanner - PDF Scanner App",
+    "nodeCount": 243,
+    "nodeTypes": {
+      "stack": 53,
+      "navigation": 1,
+      "text": 20,
+      "icon": 5,
+      "img": 7
+    },
+    "uniqueNamesCount": 35,
+    "previews": [
+      {
+        "id": 937397,
+        "active": true,
+        "identifier": "EgbkmBeQvzDLxddHK50DW",
+        "url": "https://paywall-screenshots.superwall.com/EgbkmBeQvzDLxddHK50DW.png",
+        "paywallId": 168642
+      }
+    ]
+  },
+  {
+    "id": 171418,
+    "name": "DuoLingo ",
+    "nodeCount": 270,
+    "nodeTypes": {
+      "stack": 31,
+      "navigation": 1,
+      "icon": 2,
+      "img": 2,
+      "text": 16
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 1054605,
+        "active": true,
+        "identifier": "wAyMaoUietsoXid2OtVyh",
+        "url": "https://paywall-screenshots.superwall.com/wAyMaoUietsoXid2OtVyh.png",
+        "paywallId": 171418
+      }
+    ]
+  },
+  {
+    "id": 171422,
+    "name": "My Fitness Pal ",
+    "nodeCount": 218,
+    "nodeTypes": {
+      "stack": 35,
+      "navigation": 1,
+      "icon": 1,
+      "text": 21,
+      "img": 4
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 949147,
+        "active": true,
+        "identifier": "YSJ-JufVCxpp8Brm4Ldj8",
+        "url": "https://paywall-screenshots.superwall.com/YSJ-JufVCxpp8Brm4Ldj8.png",
+        "paywallId": 171422
+      }
+    ]
+  },
+  {
+    "id": 171424,
+    "name": "Strava ",
+    "nodeCount": 321,
+    "nodeTypes": {
+      "stack": 63,
+      "navigation": 1,
+      "text": 24,
+      "img": 3,
+      "icon": 1,
+      "drawer": 1
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 1054598,
+        "active": true,
+        "identifier": "P0L1lGeJO95sTs070WooC",
+        "url": "https://paywall-screenshots.superwall.com/P0L1lGeJO95sTs070WooC.png",
+        "paywallId": 171424
+      }
+    ]
+  },
+  {
+    "id": 171426,
+    "name": "Onhunt ",
+    "nodeCount": 283,
+    "nodeTypes": {
+      "stack": 39,
+      "icon": 3,
+      "text": 18,
+      "img": 1
+    },
+    "uniqueNamesCount": 25,
+    "previews": [
+      {
+        "id": 949163,
+        "active": true,
+        "identifier": "cm9vR2aMkJYGDSMnJT8YO",
+        "url": "https://paywall-screenshots.superwall.com/cm9vR2aMkJYGDSMnJT8YO.png",
+        "paywallId": 171426
+      }
+    ]
+  },
+  {
+    "id": 171431,
+    "name": "Hily Dating ",
+    "nodeCount": 311,
+    "nodeTypes": {
+      "stack": 50,
+      "text": 29,
+      "icon": 6,
+      "img": 4
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 949174,
+        "active": true,
+        "identifier": "58Xfdpz5XhNHzCjAB21vn",
+        "url": "https://paywall-screenshots.superwall.com/58Xfdpz5XhNHzCjAB21vn.png",
+        "paywallId": 171431
+      }
+    ]
+  },
+  {
+    "id": 174299,
+    "name": "Facetune ",
+    "nodeCount": 178,
+    "nodeTypes": {
+      "stack": 39,
+      "navigation": 1,
+      "text": 12,
+      "icon": 3,
+      "img": 1
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 961335,
+        "active": true,
+        "identifier": "0yAmTQDUnVgb9jR7utHks",
+        "url": "https://paywall-screenshots.superwall.com/0yAmTQDUnVgb9jR7utHks.png",
+        "paywallId": 174299
+      }
+    ]
+  },
+  {
+    "id": 174303,
+    "name": "Peloton ",
+    "nodeCount": 361,
+    "nodeTypes": {
+      "stack": 82,
+      "navigation": 1,
+      "img": 1,
+      "icon": 18,
+      "text": 37,
+      "drawer": 1
+    },
+    "uniqueNamesCount": 31,
+    "previews": [
+      {
+        "id": 961367,
+        "active": true,
+        "identifier": "R4nyRxXWHfQjPTd1opta8",
+        "url": "https://paywall-screenshots.superwall.com/R4nyRxXWHfQjPTd1opta8.png",
+        "paywallId": 174303
+      }
+    ]
+  },
+  {
+    "id": 174311,
+    "name": "Ultimate Guitar: Chords & Tabs",
+    "nodeCount": 199,
+    "nodeTypes": {
+      "icon": 1,
+      "stack": 25,
+      "text": 14,
+      "img": 6
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 961394,
+        "active": true,
+        "identifier": "LZKyKpxJPITWEv7NfNf-H",
+        "url": "https://paywall-screenshots.superwall.com/LZKyKpxJPITWEv7NfNf-H.png",
+        "paywallId": 174311
+      }
+    ]
+  },
+  {
+    "id": 174319,
+    "name": "Gymverse: Gym Workout Planner ",
+    "nodeCount": 205,
+    "nodeTypes": {
+      "icon": 4,
+      "stack": 27,
+      "text": 14,
+      "img": 8
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 961415,
+        "active": true,
+        "identifier": "R9QBHPbHZAO3JytXWo8Gv",
+        "url": "https://paywall-screenshots.superwall.com/R9QBHPbHZAO3JytXWo8Gv.png",
+        "paywallId": 174319
+      }
+    ]
+  },
+  {
+    "id": 174380,
+    "name": "Life360 ",
+    "nodeCount": 183,
+    "nodeTypes": {
+      "icon": 4,
+      "stack": 36,
+      "text": 19
+    },
+    "uniqueNamesCount": 22,
+    "previews": [
+      {
+        "id": 961745,
+        "active": true,
+        "identifier": "WneTtoN9tmoqAkqBmdi6J",
+        "url": "https://paywall-screenshots.superwall.com/WneTtoN9tmoqAkqBmdi6J.png",
+        "paywallId": 174380
+      }
+    ]
+  },
+  {
+    "id": 178078,
+    "name": "LUDEX Sports Card Scanner ",
+    "nodeCount": 394,
+    "nodeTypes": {
+      "stack": 59,
+      "text": 28,
+      "img": 6,
+      "icon": 14
+    },
+    "uniqueNamesCount": 37,
+    "previews": [
+      {
+        "id": 979075,
+        "active": true,
+        "identifier": "8J1153XvVGoFiiy77qS0j",
+        "url": "https://paywall-screenshots.superwall.com/8J1153XvVGoFiiy77qS0j.png",
+        "paywallId": 178078
+      }
+    ]
+  },
+  {
+    "id": 178079,
+    "name": "DreamApp: Dream Interpretation",
+    "nodeCount": 422,
+    "nodeTypes": {
+      "img": 7,
+      "text": 59,
+      "stack": 127,
+      "icon": 7,
+      "navigation": 1
+    },
+    "uniqueNamesCount": 41,
+    "previews": [
+      {
+        "id": 979079,
+        "active": true,
+        "identifier": "GJ8hvCwwnZSVfkYyFIHgo",
+        "url": "https://paywall-screenshots.superwall.com/GJ8hvCwwnZSVfkYyFIHgo.png",
+        "paywallId": 178079
+      }
+    ]
+  },
+  {
+    "id": 178080,
+    "name": "Captions: AI Short-Form Video",
+    "nodeCount": 292,
+    "nodeTypes": {
+      "stack": 41,
+      "text": 23,
+      "icon": 3,
+      "img": 4
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 979069,
+        "active": true,
+        "identifier": "TbVSO1Yoz6kvRIph7t_qq",
+        "url": "https://paywall-screenshots.superwall.com/TbVSO1Yoz6kvRIph7t_qq.png",
+        "paywallId": 178080
+      }
+    ]
+  },
+  {
+    "id": 178084,
+    "name": "Flightradar24 | Flight Tracker",
+    "nodeCount": 606,
+    "nodeTypes": {
+      "stack": 174,
+      "icon": 46,
+      "text": 161,
+      "navigation": 1,
+      "img": 1
+    },
+    "uniqueNamesCount": 33,
+    "previews": [
+      {
+        "id": 979066,
+        "active": true,
+        "identifier": "FC5Mx93yFO4RoIzYGwJF5",
+        "url": "https://paywall-screenshots.superwall.com/FC5Mx93yFO4RoIzYGwJF5.png",
+        "paywallId": 178084
+      }
+    ]
+  },
+  {
+    "id": 178252,
+    "name": "Transaction Abandon Survey",
+    "nodeCount": 498,
+    "nodeTypes": {
+      "stack": 139,
+      "navigation": 1,
+      "text": 57,
+      "icon": 16,
+      "multiple-choice": 1,
+      "choice-item": 1
+    },
+    "uniqueNamesCount": 37,
+    "previews": [
+      {
+        "id": 1054671,
+        "active": true,
+        "identifier": "StnKluYFp76t2Pl9u5QVS",
+        "url": "https://paywall-screenshots.superwall.com/StnKluYFp76t2Pl9u5QVS.png",
+        "paywallId": 178252
+      }
+    ]
+  },
+  {
+    "id": 178533,
+    "name": "Game Changer ",
+    "nodeCount": 568,
+    "nodeTypes": {
+      "stack": 173,
+      "navigation": 1,
+      "icon": 62,
+      "img": 8,
+      "text": 136
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 979065,
+        "active": true,
+        "identifier": "WgUDH-YwnlmjRdPIvS9ZD",
+        "url": "https://paywall-screenshots.superwall.com/WgUDH-YwnlmjRdPIvS9ZD.png",
+        "paywallId": 178533
+      }
+    ]
+  },
+  {
+    "id": 180048,
+    "name": "Essential - Healthy Lifestyle",
+    "nodeCount": 370,
+    "nodeTypes": {
+      "icon": 7,
+      "stack": 46,
+      "text": 27,
+      "img": 1
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 985977,
+        "active": true,
+        "identifier": "0NxknCbmd0QttFNGineMv",
+        "url": "https://paywall-screenshots.superwall.com/0NxknCbmd0QttFNGineMv.png",
+        "paywallId": 180048
+      }
+    ]
+  },
+  {
+    "id": 180050,
+    "name": "Nebula: Horoscope & Astrology",
+    "nodeCount": 262,
+    "nodeTypes": {
+      "stack": 37,
+      "text": 27,
+      "icon": 2,
+      "img": 4
+    },
+    "uniqueNamesCount": 28,
+    "previews": [
+      {
+        "id": 985983,
+        "active": true,
+        "identifier": "eRcXIS104G-_VNX1zvvkq",
+        "url": "https://paywall-screenshots.superwall.com/eRcXIS104G-_VNX1zvvkq.png",
+        "paywallId": 180050
+      }
+    ]
+  },
+  {
+    "id": 180053,
+    "name": "Scenic Motorcycle Navigation",
+    "nodeCount": 359,
+    "nodeTypes": {
+      "stack": 39,
+      "navigation": 1,
+      "img": 1,
+      "text": 32,
+      "icon": 1
+    },
+    "uniqueNamesCount": 37,
+    "previews": [
+      {
+        "id": 985997,
+        "active": true,
+        "identifier": "Dg0U5fTh_fZ6AKj_-A86t",
+        "url": "https://paywall-screenshots.superwall.com/Dg0U5fTh_fZ6AKj_-A86t.png",
+        "paywallId": 180053
+      }
+    ]
+  },
+  {
+    "id": 180058,
+    "name": "1Password: Password Manager",
+    "nodeCount": 208,
+    "nodeTypes": {
+      "stack": 30,
+      "navigation": 1,
+      "text": 17,
+      "icon": 1,
+      "img": 5
+    },
+    "uniqueNamesCount": 17,
+    "previews": [
+      {
+        "id": 986009,
+        "active": true,
+        "identifier": "_0QP6cF0CWS3ePKNvURTY",
+        "url": "https://paywall-screenshots.superwall.com/_0QP6cF0CWS3ePKNvURTY.png",
+        "paywallId": 180058
+      }
+    ]
+  },
+  {
+    "id": 181568,
+    "name": "Grindr - Gay Dating and Chat",
+    "nodeCount": 497,
+    "nodeTypes": {
+      "stack": 122,
+      "navigation": 1,
+      "text": 84,
+      "img": 37
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 992448,
+        "active": true,
+        "identifier": "1Ki9fLMmswxuuc6rid5vx",
+        "url": "https://paywall-screenshots.superwall.com/1Ki9fLMmswxuuc6rid5vx.png",
+        "paywallId": 181568
+      }
+    ]
+  },
+  {
+    "id": 184505,
+    "name": "Ladder Onboarding Template",
+    "nodeCount": 316,
+    "nodeTypes": {
+      "stack": 151,
+      "text": 63,
+      "navigation": 1,
+      "img": 12,
+      "video": 1,
+      "drawer": 2,
+      "icon": 17
+    },
+    "uniqueNamesCount": 34,
+    "previews": [
+      {
+        "id": 1039236,
+        "active": true,
+        "identifier": "P36LLgG4t0-Tcxx_TqBck",
+        "url": "https://paywall-screenshots.superwall.com/P36LLgG4t0-Tcxx_TqBck.png",
+        "paywallId": 184505
+      }
+    ]
+  },
+  {
+    "id": 184765,
+    "name": "Blinkist Onboarding Template",
+    "nodeCount": 330,
+    "nodeTypes": {
+      "stack": 118,
+      "text": 61,
+      "img": 7,
+      "navigation": 1,
+      "icon": 12,
+      "choice-item": 3,
+      "multiple-choice": 3,
+      "indicator": 1,
+      "indicator-item": 1
+    },
+    "uniqueNamesCount": 42,
+    "previews": [
+      {
+        "id": 1039235,
+        "active": true,
+        "identifier": "oESGyjPaD8oczrLN4_LHj",
+        "url": "https://paywall-screenshots.superwall.com/oESGyjPaD8oczrLN4_LHj.png",
+        "paywallId": 184765
+      }
+    ]
+  },
+  {
+    "id": 186653,
+    "name": "PictureThis Onboarding Template",
+    "nodeCount": 457,
+    "nodeTypes": {
+      "stack": 175,
+      "navigation": 1,
+      "text": 82,
+      "img": 33,
+      "indicator": 1,
+      "indicator-item": 1,
+      "icon": 6
+    },
+    "uniqueNamesCount": 58,
+    "previews": [
+      {
+        "id": 1039234,
+        "active": true,
+        "identifier": "4fUA8b-5nqf91Zzigl8w_",
+        "url": "https://paywall-screenshots.superwall.com/4fUA8b-5nqf91Zzigl8w_.png",
+        "paywallId": 186653
+      }
+    ]
+  },
+  {
+    "id": 187470,
+    "name": "Surfshark VPN: Fast VPN App",
+    "nodeCount": 578,
+    "nodeTypes": {
+      "stack": 130,
+      "navigation": 1,
+      "img": 1,
+      "text": 117,
+      "icon": 45,
+      "drawer": 1
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 1019791,
+        "active": true,
+        "identifier": "l3wsDgD6cjgAcT8nXSitW",
+        "url": "https://paywall-screenshots.superwall.com/l3wsDgD6cjgAcT8nXSitW.png",
+        "paywallId": 187470
+      }
+    ]
+  },
+  {
+    "id": 187477,
+    "name": "Fitbit: Health & Fitness",
+    "nodeCount": 230,
+    "nodeTypes": {
+      "stack": 42,
+      "navigation": 1,
+      "img": 1,
+      "text": 22,
+      "icon": 8
+    },
+    "uniqueNamesCount": 22,
+    "previews": [
+      {
+        "id": 1019812,
+        "active": true,
+        "identifier": "HZwLqPEatGRQLxnH-NJfq",
+        "url": "https://paywall-screenshots.superwall.com/HZwLqPEatGRQLxnH-NJfq.png",
+        "paywallId": 187477
+      }
+    ]
+  },
+  {
+    "id": 187486,
+    "name": "Yoga-Go: Chair Yoga & Tai Chi",
+    "nodeCount": 208,
+    "nodeTypes": {
+      "stack": 26,
+      "img": 1,
+      "text": 21,
+      "navigation": 1,
+      "icon": 1
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 1019837,
+        "active": true,
+        "identifier": "PomC6FKo0MQkeBIWumVER",
+        "url": "https://paywall-screenshots.superwall.com/PomC6FKo0MQkeBIWumVER.png",
+        "paywallId": 187486
+      }
+    ]
+  },
+  {
+    "id": 192827,
+    "name": "Getting Started with Flows",
+    "nodeCount": 438,
+    "nodeTypes": {
+      "stack": 133,
+      "text": 74,
+      "navigation": 1,
+      "icon": 28,
+      "choice-item": 3,
+      "multiple-choice": 3,
+      "indicator": 1,
+      "indicator-item": 1,
+      "img": 24
+    },
+    "uniqueNamesCount": 68,
+    "previews": [
+      {
+        "id": 1052258,
+        "active": true,
+        "identifier": "xGYVoRw8OtWBKgzlJXSea",
+        "url": "https://paywall-screenshots.superwall.com/xGYVoRw8OtWBKgzlJXSea.png",
+        "paywallId": 192827
+      }
+    ]
+  },
+  {
+    "id": 193141,
+    "name": "Cancellation Recovery Template",
+    "nodeCount": 498,
+    "nodeTypes": {
+      "stack": 139,
+      "navigation": 1,
+      "text": 57,
+      "icon": 16,
+      "multiple-choice": 1,
+      "choice-item": 1
+    },
+    "uniqueNamesCount": 37,
+    "previews": [
+      {
+        "id": 1057044,
+        "active": true,
+        "identifier": "LomyytbQ6VV_tQZ2KL_q6",
+        "url": "https://paywall-screenshots.superwall.com/LomyytbQ6VV_tQZ2KL_q6.png",
+        "paywallId": 193141
+      }
+    ]
+  },
+  {
+    "id": 195702,
+    "name": "Deezer: Music Player, Podcast",
+    "nodeCount": 230,
+    "nodeTypes": {
+      "icon": 4,
+      "stack": 32,
+      "text": 12
+    },
+    "uniqueNamesCount": 19,
+    "previews": [
+      {
+        "id": 1054745,
+        "active": true,
+        "identifier": "DSr2wjnfHx8BsmIB7Suc8",
+        "url": "https://paywall-screenshots.superwall.com/DSr2wjnfHx8BsmIB7Suc8.png",
+        "paywallId": 195702
+      }
+    ]
+  },
+  {
+    "id": 195704,
+    "name": "Muscle Monster Workout Planner ",
+    "nodeCount": 248,
+    "nodeTypes": {
+      "stack": 35,
+      "img": 1,
+      "text": 20,
+      "navigation": 1,
+      "icon": 3
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 1054765,
+        "active": true,
+        "identifier": "bkjUdVlEP7DZyJZ85CI3y",
+        "url": "https://paywall-screenshots.superwall.com/bkjUdVlEP7DZyJZ85CI3y.png",
+        "paywallId": 195704
+      }
+    ]
+  },
+  {
+    "id": 195712,
+    "name": "Fastic AI Food Calorie Scanner",
+    "nodeCount": 629,
+    "nodeTypes": {
+      "stack": 188,
+      "navigation": 1,
+      "icon": 4,
+      "img": 58,
+      "text": 127,
+      "drawer": 1
+    },
+    "uniqueNamesCount": 48,
+    "previews": [
+      {
+        "id": 1054788,
+        "active": true,
+        "identifier": "f66745n9fy-TYnrjpY6JK",
+        "url": "https://paywall-screenshots.superwall.com/f66745n9fy-TYnrjpY6JK.png",
+        "paywallId": 195712
+      }
+    ]
+  },
+  {
+    "id": 195720,
+    "name": "Surfline: Wave & Surf Reports",
+    "nodeCount": 324,
+    "nodeTypes": {
+      "text": 47,
+      "stack": 96,
+      "navigation": 1,
+      "icon": 16,
+      "img": 6
+    },
+    "uniqueNamesCount": 42,
+    "previews": [
+      {
+        "id": 1054815,
+        "active": true,
+        "identifier": "LudwyxhgWy1aZGD268rDA",
+        "url": "https://paywall-screenshots.superwall.com/LudwyxhgWy1aZGD268rDA.png",
+        "paywallId": 195720
+      }
+    ]
+  },
+  {
+    "id": 201521,
+    "name": "FaxFree: Send Fax From iPhone",
+    "nodeCount": 327,
+    "nodeTypes": {
+      "stack": 50,
+      "text": 21,
+      "img": 1,
+      "icon": 5
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 1080636,
+        "active": true,
+        "identifier": "BpYIlbiOB-nucjwh94_V2",
+        "url": "https://paywall-screenshots.superwall.com/BpYIlbiOB-nucjwh94_V2.png",
+        "paywallId": 201521
+      }
+    ]
+  },
+  {
+    "id": 201529,
+    "name": "Home Planner - AI Room Design",
+    "nodeCount": 491,
+    "nodeTypes": {
+      "stack": 81,
+      "text": 48,
+      "icon": 7,
+      "img": 1
+    },
+    "uniqueNamesCount": 36,
+    "previews": [
+      {
+        "id": 1080663,
+        "active": true,
+        "identifier": "5ZWarWyqWNpYOmDfODf10",
+        "url": "https://paywall-screenshots.superwall.com/5ZWarWyqWNpYOmDfODf10.png",
+        "paywallId": 201529
+      }
+    ]
+  },
+  {
+    "id": 201530,
+    "name": "Freeletics: Workouts & Fitness",
+    "nodeCount": 288,
+    "nodeTypes": {
+      "stack": 34,
+      "img": 3,
+      "icon": 1,
+      "text": 28
+    },
+    "uniqueNamesCount": 25,
+    "previews": [
+      {
+        "id": 1080668,
+        "active": true,
+        "identifier": "bzDxxy1Azb1OXyWNPKwCt",
+        "url": "https://paywall-screenshots.superwall.com/bzDxxy1Azb1OXyWNPKwCt.png",
+        "paywallId": 201530
+      }
+    ]
+  },
+  {
+    "id": 205050,
+    "name": "Transaction Abandon | Extended Week",
+    "nodeCount": 233,
+    "nodeTypes": {
+      "stack": 27,
+      "text": 15,
+      "img": 1,
+      "icon": 3
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 1095804,
+        "active": true,
+        "identifier": "oOa9LuasvLFwTssMBDgms",
+        "url": "https://paywall-screenshots.superwall.com/oOa9LuasvLFwTssMBDgms.png",
+        "paywallId": 205050
+      }
+    ]
+  },
+  {
+    "id": 20864,
+    "name": "Mojo",
+    "nodeCount": 400,
+    "nodeTypes": {
+      "stack": 60,
+      "text": 20,
+      "img": 1,
+      "video": 5,
+      "icon": 2
+    },
+    "uniqueNamesCount": 32,
+    "previews": [
+      {
+        "id": 230466,
+        "active": true,
+        "identifier": "zeMUjNi5tp1ydnU5QyyPB",
+        "url": "https://paywall-screenshots.superwall.com/zeMUjNi5tp1ydnU5QyyPB.png",
+        "paywallId": 20864
+      }
+    ]
+  },
+  {
+    "id": 21386,
+    "name": "Pixite",
+    "nodeCount": 238,
+    "nodeTypes": {
+      "stack": 11,
+      "text": 13,
+      "img": 2,
+      "icon": 1
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 230473,
+        "active": true,
+        "identifier": "L8_ppbwJC_vXP1KvKzAom",
+        "url": "https://paywall-screenshots.superwall.com/L8_ppbwJC_vXP1KvKzAom.png",
+        "paywallId": 21386
+      }
+    ]
+  },
+  {
+    "id": 22020,
+    "name": "Wombo",
+    "nodeCount": 245,
+    "nodeTypes": {
+      "icon": 5,
+      "stack": 25,
+      "text": 18,
+      "img": 1
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 230468,
+        "active": true,
+        "identifier": "eUH0Xa0JrPqj3_q8loeQt",
+        "url": "https://paywall-screenshots.superwall.com/eUH0Xa0JrPqj3_q8loeQt.png",
+        "paywallId": 22020
+      }
+    ]
+  },
+  {
+    "id": 22320,
+    "name": "Yubo",
+    "nodeCount": 277,
+    "nodeTypes": {
+      "stack": 44,
+      "text": 27,
+      "img": 4,
+      "icon": 1
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 230464,
+        "active": true,
+        "identifier": "SWVU6D3fSH2lAJaT4A1_l",
+        "url": "https://paywall-screenshots.superwall.com/SWVU6D3fSH2lAJaT4A1_l.png",
+        "paywallId": 22320
+      }
+    ]
+  },
+  {
+    "id": 22812,
+    "name": "Sharpen",
+    "nodeCount": 285,
+    "nodeTypes": {
+      "stack": 37,
+      "text": 27,
+      "icon": 7
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 230463,
+        "active": true,
+        "identifier": "6yg7jLSgT-ipDiiob3M-X",
+        "url": "https://paywall-screenshots.superwall.com/6yg7jLSgT-ipDiiob3M-X.png",
+        "paywallId": 22812
+      }
+    ]
+  },
+  {
+    "id": 22969,
+    "name": "Palette",
+    "nodeCount": 245,
+    "nodeTypes": {
+      "stack": 29,
+      "text": 11,
+      "icon": 7
+    },
+    "uniqueNamesCount": 11,
+    "previews": [
+      {
+        "id": 230461,
+        "active": true,
+        "identifier": "2dJEQc1d_9CfX7ItxFr_k",
+        "url": "https://paywall-screenshots.superwall.com/2dJEQc1d_9CfX7ItxFr_k.png",
+        "paywallId": 22969
+      }
+    ]
+  },
+  {
+    "id": 23125,
+    "name": "Mimo",
+    "nodeCount": 294,
+    "nodeTypes": {
+      "stack": 41,
+      "text": 26,
+      "icon": 16,
+      "img": 1
+    },
+    "uniqueNamesCount": 20,
+    "previews": [
+      {
+        "id": 230460,
+        "active": true,
+        "identifier": "yzC0yLhyzwneoxiifAibR",
+        "url": "https://paywall-screenshots.superwall.com/yzC0yLhyzwneoxiifAibR.png",
+        "paywallId": 23125
+      }
+    ]
+  },
+  {
+    "id": 23139,
+    "name": "Fitness",
+    "nodeCount": 259,
+    "nodeTypes": {
+      "stack": 28,
+      "text": 19,
+      "img": 4,
+      "icon": 2
+    },
+    "uniqueNamesCount": 15,
+    "previews": [
+      {
+        "id": 230469,
+        "active": true,
+        "identifier": "ZlYryzZiTIKYuSk9NxmtN",
+        "url": "https://paywall-screenshots.superwall.com/ZlYryzZiTIKYuSk9NxmtN.png",
+        "paywallId": 23139
+      }
+    ]
+  },
+  {
+    "id": 23142,
+    "name": "Planner5D",
+    "nodeCount": 239,
+    "nodeTypes": {
+      "stack": 17,
+      "text": 13,
+      "img": 1
+    },
+    "uniqueNamesCount": 18,
+    "previews": [
+      {
+        "id": 230481,
+        "active": true,
+        "identifier": "NBiisRXKBd3-ejnaXQlm_",
+        "url": "https://paywall-screenshots.superwall.com/NBiisRXKBd3-ejnaXQlm_.png",
+        "paywallId": 23142
+      }
+    ]
+  },
+  {
+    "id": 23247,
+    "name": "Motivation",
+    "nodeCount": 186,
+    "nodeTypes": {
+      "stack": 20,
+      "text": 13,
+      "icon": 4,
+      "img": 1
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 230458,
+        "active": true,
+        "identifier": "eiXm3qcXT-ZuzkjTAE2ZM",
+        "url": "https://paywall-screenshots.superwall.com/eiXm3qcXT-ZuzkjTAE2ZM.png",
+        "paywallId": 23247
+      }
+    ]
+  },
+  {
+    "id": 23293,
+    "name": "Team Snap",
+    "nodeCount": 253,
+    "nodeTypes": {
+      "stack": 28,
+      "icon": 1,
+      "text": 14,
+      "img": 5
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 230478,
+        "active": true,
+        "identifier": "Sq7hPIfVo1a9111Z38Ed_",
+        "url": "https://paywall-screenshots.superwall.com/Sq7hPIfVo1a9111Z38Ed_.png",
+        "paywallId": 23293
+      }
+    ]
+  },
+  {
+    "id": 23367,
+    "name": "Free Trial Slider",
+    "nodeCount": 251,
+    "nodeTypes": {
+      "stack": 23,
+      "text": 20
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 230477,
+        "active": true,
+        "identifier": "2qTsVXqGY7msaI1CqOKVL",
+        "url": "https://paywall-screenshots.superwall.com/2qTsVXqGY7msaI1CqOKVL.png",
+        "paywallId": 23367
+      }
+    ]
+  },
+  {
+    "id": 23409,
+    "name": "DocuSnap",
+    "nodeCount": 226,
+    "nodeTypes": {
+      "icon": 5,
+      "stack": 40,
+      "text": 13,
+      "img": 1
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 230471,
+        "active": true,
+        "identifier": "eXhdE_fgVQFp68NygsAWx",
+        "url": "https://paywall-screenshots.superwall.com/eXhdE_fgVQFp68NygsAWx.png",
+        "paywallId": 23409
+      }
+    ]
+  },
+  {
+    "id": 23443,
+    "name": "Outside",
+    "nodeCount": 314,
+    "nodeTypes": {
+      "stack": 48,
+      "text": 34,
+      "img": 14,
+      "icon": 2
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 235978,
+        "active": true,
+        "identifier": "S2V-yO3xYtQrB6nGKGa_L",
+        "url": "https://paywall-screenshots.superwall.com/S2V-yO3xYtQrB6nGKGa_L.png",
+        "paywallId": 23443
+      }
+    ]
+  },
+  {
+    "id": 23448,
+    "name": "Speak",
+    "nodeCount": 365,
+    "nodeTypes": {
+      "text": 60,
+      "stack": 81,
+      "icon": 7,
+      "img": 3
+    },
+    "uniqueNamesCount": 52,
+    "previews": [
+      {
+        "id": 230456,
+        "active": true,
+        "identifier": "7bmfbAcL38BD3SUjKb3Hm",
+        "url": "https://paywall-screenshots.superwall.com/7bmfbAcL38BD3SUjKb3Hm.png",
+        "paywallId": 23448
+      }
+    ]
+  },
+  {
+    "id": 24318,
+    "name": "Vixer",
+    "nodeCount": 360,
+    "nodeTypes": {
+      "stack": 23,
+      "text": 18,
+      "img": 1,
+      "video": 1,
+      "icon": 2
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 235469,
+        "active": true,
+        "identifier": "riUfVkfR5sO6momMnHo7l",
+        "url": "https://paywall-screenshots.superwall.com/riUfVkfR5sO6momMnHo7l.png",
+        "paywallId": 24318
+      }
+    ]
+  },
+  {
+    "id": 24606,
+    "name": "TikMaker",
+    "nodeCount": 321,
+    "nodeTypes": {
+      "stack": 78,
+      "icon": 5,
+      "img": 10,
+      "text": 37
+    },
+    "uniqueNamesCount": 35,
+    "previews": [
+      {
+        "id": 235205,
+        "active": true,
+        "identifier": "v9A233JQIcgNbUfMy8zgx",
+        "url": "https://paywall-screenshots.superwall.com/v9A233JQIcgNbUfMy8zgx.png",
+        "paywallId": 24606
+      }
+    ]
+  },
+  {
+    "id": 24741,
+    "name": "Visory",
+    "nodeCount": 188,
+    "nodeTypes": {
+      "stack": 22,
+      "img": 4,
+      "text": 10
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 235736,
+        "active": true,
+        "identifier": "UeoC3YSl791K5sDjW_3Wp",
+        "url": "https://paywall-screenshots.superwall.com/UeoC3YSl791K5sDjW_3Wp.png",
+        "paywallId": 24741
+      }
+    ]
+  },
+  {
+    "id": 24852,
+    "name": "Video Background",
+    "nodeCount": 398,
+    "nodeTypes": {
+      "stack": 28,
+      "text": 22,
+      "video": 1,
+      "icon": 2,
+      "img": 1
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 236185,
+        "active": true,
+        "identifier": "cTqsBlBlntQYsECa0HDFx",
+        "url": "https://paywall-screenshots.superwall.com/cTqsBlBlntQYsECa0HDFx.png",
+        "paywallId": 24852
+      }
+    ]
+  },
+  {
+    "id": 24860,
+    "name": "Multi Page",
+    "nodeCount": 216,
+    "nodeTypes": {
+      "stack": 48,
+      "text": 22,
+      "img": 8,
+      "icon": 6
+    },
+    "uniqueNamesCount": 19,
+    "previews": [
+      {
+        "id": 236234,
+        "active": true,
+        "identifier": "O60CrafPhZD6OoYEvyrBL",
+        "url": "https://paywall-screenshots.superwall.com/O60CrafPhZD6OoYEvyrBL.png",
+        "paywallId": 24860
+      }
+    ]
+  },
+  {
+    "id": 24932,
+    "name": "PiCal",
+    "nodeCount": 316,
+    "nodeTypes": {
+      "text": 29,
+      "stack": 73,
+      "img": 18,
+      "icon": 7,
+      "video": 1
+    },
+    "uniqueNamesCount": 34,
+    "previews": [
+      {
+        "id": 236647,
+        "active": true,
+        "identifier": "zcNACCtXD9Py7W493CExS",
+        "url": "https://paywall-screenshots.superwall.com/zcNACCtXD9Py7W493CExS.png",
+        "paywallId": 24932
+      }
+    ]
+  },
+  {
+    "id": 24939,
+    "name": "Yubo",
+    "nodeCount": 310,
+    "nodeTypes": {
+      "stack": 68,
+      "img": 8,
+      "text": 30
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 236692,
+        "active": true,
+        "identifier": "53kcZbxhI9ryDb-m9JicS",
+        "url": "https://paywall-screenshots.superwall.com/53kcZbxhI9ryDb-m9JicS.png",
+        "paywallId": 24939
+      }
+    ]
+  },
+  {
+    "id": 24940,
+    "name": "Yubo",
+    "nodeCount": 315,
+    "nodeTypes": {
+      "stack": 49,
+      "img": 19,
+      "text": 41
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 236691,
+        "active": true,
+        "identifier": "NKdhLrd_MzRDUVLW0wiww",
+        "url": "https://paywall-screenshots.superwall.com/NKdhLrd_MzRDUVLW0wiww.png",
+        "paywallId": 24940
+      }
+    ]
+  },
+  {
+    "id": 25169,
+    "name": "Roi",
+    "nodeCount": 277,
+    "nodeTypes": {
+      "stack": 66,
+      "text": 22,
+      "img": 5
+    },
+    "uniqueNamesCount": 36,
+    "previews": [
+      {
+        "id": 237782,
+        "active": true,
+        "identifier": "7XD9LMGFlZtL57PMdw7hu",
+        "url": "https://paywall-screenshots.superwall.com/7XD9LMGFlZtL57PMdw7hu.png",
+        "paywallId": 25169
+      }
+    ]
+  },
+  {
+    "id": 25300,
+    "name": "Roi - Trial Timeline",
+    "nodeCount": 269,
+    "nodeTypes": {
+      "stack": 49,
+      "text": 25,
+      "icon": 3,
+      "img": 6
+    },
+    "uniqueNamesCount": 32,
+    "previews": [
+      {
+        "id": 238455,
+        "active": true,
+        "identifier": "96_PMFOuftO7I4bTPd-51",
+        "url": "https://paywall-screenshots.superwall.com/96_PMFOuftO7I4bTPd-51.png",
+        "paywallId": 25300
+      }
+    ]
+  },
+  {
+    "id": 25313,
+    "name": "Fizz",
+    "nodeCount": 222,
+    "nodeTypes": {
+      "stack": 34,
+      "img": 11,
+      "text": 16
+    },
+    "uniqueNamesCount": 22,
+    "previews": [
+      {
+        "id": 239228,
+        "active": true,
+        "identifier": "ug0NwByn6jW0Pnv4BJHIS",
+        "url": "https://paywall-screenshots.superwall.com/ug0NwByn6jW0Pnv4BJHIS.png",
+        "paywallId": 25313
+      }
+    ]
+  },
+  {
+    "id": 25341,
+    "name": "Fig",
+    "nodeCount": 199,
+    "nodeTypes": {
+      "stack": 21,
+      "img": 5,
+      "text": 17
+    },
+    "uniqueNamesCount": 20,
+    "previews": [
+      {
+        "id": 238732,
+        "active": true,
+        "identifier": "MBGMFKBVgAf-nt40I8pa3",
+        "url": "https://paywall-screenshots.superwall.com/MBGMFKBVgAf-nt40I8pa3.png",
+        "paywallId": 25341
+      }
+    ]
+  },
+  {
+    "id": 25513,
+    "name": "Fitness AI",
+    "nodeCount": 165,
+    "nodeTypes": {
+      "stack": 9,
+      "img": 2,
+      "text": 8
+    },
+    "uniqueNamesCount": 11,
+    "previews": [
+      {
+        "id": 239528,
+        "active": true,
+        "identifier": "8HxsKEbayTCLS6LolYNnY",
+        "url": "https://paywall-screenshots.superwall.com/8HxsKEbayTCLS6LolYNnY.png",
+        "paywallId": 25513
+      }
+    ]
+  },
+  {
+    "id": 25618,
+    "name": "Mojo",
+    "nodeCount": 302,
+    "nodeTypes": {
+      "stack": 81,
+      "icon": 3,
+      "text": 32,
+      "img": 1,
+      "video": 5
+    },
+    "uniqueNamesCount": 38,
+    "previews": [
+      {
+        "id": 240317,
+        "active": true,
+        "identifier": "XMGnwJEW5Z4N8Ta6PI3nd",
+        "url": "https://paywall-screenshots.superwall.com/XMGnwJEW5Z4N8Ta6PI3nd.png",
+        "paywallId": 25618
+      }
+    ]
+  },
+  {
+    "id": 25640,
+    "name": "SuperApp",
+    "nodeCount": 563,
+    "nodeTypes": {
+      "icon": 27,
+      "stack": 187,
+      "img": 28,
+      "text": 132
+    },
+    "uniqueNamesCount": 65,
+    "previews": [
+      {
+        "id": 264427,
+        "active": true,
+        "identifier": "aA3lYcQarf4vna1g0m8Hc",
+        "url": "https://paywall-screenshots.superwall.com/aA3lYcQarf4vna1g0m8Hc.png",
+        "paywallId": 25640
+      }
+    ]
+  },
+  {
+    "id": 25718,
+    "name": "Mimo",
+    "nodeCount": 206,
+    "nodeTypes": {
+      "stack": 22,
+      "icon": 6,
+      "img": 2,
+      "text": 19
+    },
+    "uniqueNamesCount": 25,
+    "previews": [
+      {
+        "id": 240799,
+        "active": true,
+        "identifier": "yAdHBSnoCjok5_8zag8OT",
+        "url": "https://paywall-screenshots.superwall.com/yAdHBSnoCjok5_8zag8OT.png",
+        "paywallId": 25718
+      }
+    ]
+  },
+  {
+    "id": 25762,
+    "name": "Zest",
+    "nodeCount": 198,
+    "nodeTypes": {
+      "text": 21,
+      "img": 5,
+      "stack": 21,
+      "icon": 1
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 240918,
+        "active": true,
+        "identifier": "OTSMR7KUQapHFB22eiMhO",
+        "url": "https://paywall-screenshots.superwall.com/OTSMR7KUQapHFB22eiMhO.png",
+        "paywallId": 25762
+      }
+    ]
+  },
+  {
+    "id": 25763,
+    "name": "Zest",
+    "nodeCount": 241,
+    "nodeTypes": {
+      "stack": 49,
+      "icon": 2,
+      "text": 31,
+      "img": 4
+    },
+    "uniqueNamesCount": 29,
+    "previews": [
+      {
+        "id": 240919,
+        "active": true,
+        "identifier": "uzH-QgQHoAy2cu5Wm0mDE",
+        "url": "https://paywall-screenshots.superwall.com/uzH-QgQHoAy2cu5Wm0mDE.png",
+        "paywallId": 25763
+      }
+    ]
+  },
+  {
+    "id": 25764,
+    "name": "Zest",
+    "nodeCount": 205,
+    "nodeTypes": {
+      "stack": 27,
+      "icon": 2,
+      "text": 23,
+      "img": 2
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 240920,
+        "active": true,
+        "identifier": "2T3iM1RZCQy62Zyi1bk_S",
+        "url": "https://paywall-screenshots.superwall.com/2T3iM1RZCQy62Zyi1bk_S.png",
+        "paywallId": 25764
+      }
+    ]
+  },
+  {
+    "id": 26106,
+    "name": "PocketShop Merchant",
+    "nodeCount": 160,
+    "nodeTypes": {
+      "stack": 19,
+      "img": 7,
+      "text": 14
+    },
+    "uniqueNamesCount": 16,
+    "previews": [
+      {
+        "id": 242854,
+        "active": true,
+        "identifier": "vBP2IhphdhbTdJM_5m1hH",
+        "url": "https://paywall-screenshots.superwall.com/vBP2IhphdhbTdJM_5m1hH.png",
+        "paywallId": 26106
+      }
+    ]
+  },
+  {
+    "id": 26115,
+    "name": "Superwall",
+    "nodeCount": 456,
+    "nodeTypes": {
+      "stack": 151,
+      "icon": 24,
+      "img": 21,
+      "text": 73
+    },
+    "uniqueNamesCount": 56,
+    "previews": [
+      {
+        "id": 242888,
+        "active": true,
+        "identifier": "VY1hkrxJHZY8JBojXg6Pb",
+        "url": "https://paywall-screenshots.superwall.com/VY1hkrxJHZY8JBojXg6Pb.png",
+        "paywallId": 26115
+      }
+    ]
+  },
+  {
+    "id": 26128,
+    "name": "EduAI",
+    "nodeCount": 282,
+    "nodeTypes": {
+      "stack": 41,
+      "img": 21,
+      "text": 34,
+      "video": 1,
+      "icon": 1
+    },
+    "uniqueNamesCount": 34,
+    "previews": [
+      {
+        "id": 242951,
+        "active": true,
+        "identifier": "rnbavoeWegKPfJQOw-kjs",
+        "url": "https://paywall-screenshots.superwall.com/rnbavoeWegKPfJQOw-kjs.png",
+        "paywallId": 26128
+      }
+    ]
+  },
+  {
+    "id": 26131,
+    "name": "Roi",
+    "nodeCount": 267,
+    "nodeTypes": {
+      "stack": 47,
+      "icon": 1,
+      "text": 24,
+      "img": 5
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 242961,
+        "active": true,
+        "identifier": "2zL1RanXT-c9H6lKj_1P8",
+        "url": "https://paywall-screenshots.superwall.com/2zL1RanXT-c9H6lKj_1P8.png",
+        "paywallId": 26131
+      }
+    ]
+  },
+  {
+    "id": 26138,
+    "name": "Mood Bubble",
+    "nodeCount": 257,
+    "nodeTypes": {
+      "stack": 34,
+      "icon": 7,
+      "img": 2,
+      "text": 23
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 242974,
+        "active": true,
+        "identifier": "mPrRqRQick0POb7sc6KI4",
+        "url": "https://paywall-screenshots.superwall.com/mPrRqRQick0POb7sc6KI4.png",
+        "paywallId": 26138
+      }
+    ]
+  },
+  {
+    "id": 26542,
+    "name": "PNK",
+    "nodeCount": 258,
+    "nodeTypes": {
+      "img": 8,
+      "text": 25,
+      "stack": 35
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 245250,
+        "active": true,
+        "identifier": "edfHACY4Mpr95JkKCrtzs",
+        "url": "https://paywall-screenshots.superwall.com/edfHACY4Mpr95JkKCrtzs.png",
+        "paywallId": 26542
+      }
+    ]
+  },
+  {
+    "id": 26694,
+    "name": "Twinbees",
+    "nodeCount": 246,
+    "nodeTypes": {
+      "stack": 52,
+      "text": 26,
+      "img": 4,
+      "icon": 1
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 246291,
+        "active": true,
+        "identifier": "cewWHnhz33HspgONTedaf",
+        "url": "https://paywall-screenshots.superwall.com/cewWHnhz33HspgONTedaf.png",
+        "paywallId": 26694
+      }
+    ]
+  },
+  {
+    "id": 26697,
+    "name": "Citizen",
+    "nodeCount": 346,
+    "nodeTypes": {
+      "stack": 108,
+      "text": 40,
+      "img": 14
+    },
+    "uniqueNamesCount": 34,
+    "previews": [
+      {
+        "id": 246319,
+        "active": true,
+        "identifier": "sIWptaL3s0FIlaOxxetos",
+        "url": "https://paywall-screenshots.superwall.com/sIWptaL3s0FIlaOxxetos.png",
+        "paywallId": 26697
+      }
+    ]
+  },
+  {
+    "id": 26698,
+    "name": "Citizen",
+    "nodeCount": 233,
+    "nodeTypes": {
+      "stack": 49,
+      "img": 6,
+      "text": 18
+    },
+    "uniqueNamesCount": 29,
+    "previews": [
+      {
+        "id": 246336,
+        "active": true,
+        "identifier": "W6V9KSUgh0VBitfmJxT4C",
+        "url": "https://paywall-screenshots.superwall.com/W6V9KSUgh0VBitfmJxT4C.png",
+        "paywallId": 26698
+      }
+    ]
+  },
+  {
+    "id": 26838,
+    "name": "1 Second Everyday Journal",
+    "nodeCount": 277,
+    "nodeTypes": {
+      "img": 26,
+      "stack": 94,
+      "text": 54,
+      "icon": 1
+    },
+    "uniqueNamesCount": 42,
+    "previews": [
+      {
+        "id": 247172,
+        "active": true,
+        "identifier": "f6soceUi3ncOu7Woosv3S",
+        "url": "https://paywall-screenshots.superwall.com/f6soceUi3ncOu7Woosv3S.png",
+        "paywallId": 26838
+      }
+    ]
+  },
+  {
+    "id": 26860,
+    "name": "Planner 5D",
+    "nodeCount": 212,
+    "nodeTypes": {
+      "stack": 26,
+      "icon": 3,
+      "text": 16,
+      "img": 3
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 247355,
+        "active": true,
+        "identifier": "SdSdlQKArTrD2F7934TtU",
+        "url": "https://paywall-screenshots.superwall.com/SdSdlQKArTrD2F7934TtU.png",
+        "paywallId": 26860
+      }
+    ]
+  },
+  {
+    "id": 26986,
+    "name": "Fizz",
+    "nodeCount": 201,
+    "nodeTypes": {
+      "stack": 58,
+      "img": 7,
+      "text": 14
+    },
+    "uniqueNamesCount": 22,
+    "previews": [
+      {
+        "id": 248248,
+        "active": true,
+        "identifier": "bI3Q7y2D4xXSE_D7YsHte",
+        "url": "https://paywall-screenshots.superwall.com/bI3Q7y2D4xXSE_D7YsHte.png",
+        "paywallId": 26986
+      }
+    ]
+  },
+  {
+    "id": 27665,
+    "name": "CoinStats",
+    "nodeCount": 408,
+    "nodeTypes": {
+      "stack": 161,
+      "img": 39,
+      "text": 56,
+      "icon": 1
+    },
+    "uniqueNamesCount": 31,
+    "previews": [
+      {
+        "id": 252092,
+        "active": true,
+        "identifier": "uU7SGwoqyqcHXL175sZVi",
+        "url": "https://paywall-screenshots.superwall.com/uU7SGwoqyqcHXL175sZVi.png",
+        "paywallId": 27665
+      }
+    ]
+  },
+  {
+    "id": 27667,
+    "name": "Rapchat",
+    "nodeCount": 269,
+    "nodeTypes": {
+      "stack": 67,
+      "img": 15,
+      "icon": 1,
+      "text": 24
+    },
+    "uniqueNamesCount": 31,
+    "previews": [
+      {
+        "id": 251947,
+        "active": true,
+        "identifier": "ILHyG0Oncnq3YK9zoCvOH",
+        "url": "https://paywall-screenshots.superwall.com/ILHyG0Oncnq3YK9zoCvOH.png",
+        "paywallId": 27667
+      }
+    ]
+  },
+  {
+    "id": 27894,
+    "name": "SKAI Weather",
+    "nodeCount": 124,
+    "nodeTypes": {
+      "stack": 17,
+      "img": 2,
+      "text": 9,
+      "icon": 3
+    },
+    "uniqueNamesCount": 16,
+    "previews": [
+      {
+        "id": 253246,
+        "active": true,
+        "identifier": "folQznMnTWiijR8dOsrgR",
+        "url": "https://paywall-screenshots.superwall.com/folQznMnTWiijR8dOsrgR.png",
+        "paywallId": 27894
+      }
+    ]
+  },
+  {
+    "id": 27896,
+    "name": "Calorik",
+    "nodeCount": 194,
+    "nodeTypes": {
+      "stack": 16,
+      "img": 6,
+      "text": 12
+    },
+    "uniqueNamesCount": 20,
+    "previews": [
+      {
+        "id": 253255,
+        "active": true,
+        "identifier": "5igCmrBABYJquw9oAZ2eM",
+        "url": "https://paywall-screenshots.superwall.com/5igCmrBABYJquw9oAZ2eM.png",
+        "paywallId": 27896
+      }
+    ]
+  },
+  {
+    "id": 27899,
+    "name": "Scanner App",
+    "nodeCount": 236,
+    "nodeTypes": {
+      "stack": 22,
+      "text": 19,
+      "icon": 6
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 253269,
+        "active": true,
+        "identifier": "QF2vF_XRagdadwaHL2rf1",
+        "url": "https://paywall-screenshots.superwall.com/QF2vF_XRagdadwaHL2rf1.png",
+        "paywallId": 27899
+      }
+    ]
+  },
+  {
+    "id": 28630,
+    "name": "Waking Up",
+    "nodeCount": 151,
+    "nodeTypes": {
+      "stack": 17,
+      "img": 4,
+      "icon": 1,
+      "text": 9
+    },
+    "uniqueNamesCount": 20,
+    "previews": [
+      {
+        "id": 257621,
+        "active": true,
+        "identifier": "rIoBNODKewAIkow8XNX6j",
+        "url": "https://paywall-screenshots.superwall.com/rIoBNODKewAIkow8XNX6j.png",
+        "paywallId": 28630
+      }
+    ]
+  },
+  {
+    "id": 29156,
+    "name": "Zario",
+    "nodeCount": 246,
+    "nodeTypes": {
+      "stack": 34,
+      "text": 15,
+      "icon": 1,
+      "img": 9
+    },
+    "uniqueNamesCount": 29,
+    "previews": [
+      {
+        "id": 260494,
+        "active": true,
+        "identifier": "kbkjo8K6PbRHixliOJFvS",
+        "url": "https://paywall-screenshots.superwall.com/kbkjo8K6PbRHixliOJFvS.png",
+        "paywallId": 29156
+      }
+    ]
+  },
+  {
+    "id": 29339,
+    "name": "Mojo",
+    "nodeCount": 508,
+    "nodeTypes": {
+      "stack": 94,
+      "text": 44,
+      "img": 27,
+      "icon": 1
+    },
+    "uniqueNamesCount": 46,
+    "previews": [
+      {
+        "id": 261363,
+        "active": true,
+        "identifier": "CnhqXQEqVPLLl8N-3L3Og",
+        "url": "https://paywall-screenshots.superwall.com/CnhqXQEqVPLLl8N-3L3Og.png",
+        "paywallId": 29339
+      }
+    ]
+  },
+  {
+    "id": 29608,
+    "name": "Pigment",
+    "nodeCount": 236,
+    "nodeTypes": {
+      "stack": 12,
+      "text": 14,
+      "img": 1
+    },
+    "uniqueNamesCount": 25,
+    "previews": [
+      {
+        "id": 263053,
+        "active": true,
+        "identifier": "DxlM5WcxXp16R_1QEa0SX",
+        "url": "https://paywall-screenshots.superwall.com/DxlM5WcxXp16R_1QEa0SX.png",
+        "paywallId": 29608
+      }
+    ]
+  },
+  {
+    "id": 29609,
+    "name": "CoinStats",
+    "nodeCount": 195,
+    "nodeTypes": {
+      "stack": 23,
+      "img": 1,
+      "text": 20
+    },
+    "uniqueNamesCount": 22,
+    "previews": [
+      {
+        "id": 266739,
+        "active": true,
+        "identifier": "BZyxgJRiDC90reebGawD2",
+        "url": "https://paywall-screenshots.superwall.com/BZyxgJRiDC90reebGawD2.png",
+        "paywallId": 29609
+      }
+    ]
+  },
+  {
+    "id": 29610,
+    "name": "CoinStats",
+    "nodeCount": 200,
+    "nodeTypes": {
+      "stack": 26,
+      "img": 2,
+      "text": 21
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 266740,
+        "active": true,
+        "identifier": "UGqkPRmT6jQzPqBpVXv0U",
+        "url": "https://paywall-screenshots.superwall.com/UGqkPRmT6jQzPqBpVXv0U.png",
+        "paywallId": 29610
+      }
+    ]
+  },
+  {
+    "id": 29634,
+    "name": "Anime Waifu",
+    "nodeCount": 164,
+    "nodeTypes": {
+      "stack": 23,
+      "img": 6,
+      "icon": 1,
+      "text": 17
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 263180,
+        "active": true,
+        "identifier": "2nJYV8aAD_FNhvVbtlTeg",
+        "url": "https://paywall-screenshots.superwall.com/2nJYV8aAD_FNhvVbtlTeg.png",
+        "paywallId": 29634
+      }
+    ]
+  },
+  {
+    "id": 29641,
+    "name": "Flat",
+    "nodeCount": 315,
+    "nodeTypes": {
+      "stack": 54,
+      "icon": 7,
+      "img": 17,
+      "text": 38
+    },
+    "uniqueNamesCount": 35,
+    "previews": [
+      {
+        "id": 263239,
+        "active": true,
+        "identifier": "QCK9L5_KVl85WbsL7bK8l",
+        "url": "https://paywall-screenshots.superwall.com/QCK9L5_KVl85WbsL7bK8l.png",
+        "paywallId": 29641
+      }
+    ]
+  },
+  {
+    "id": 29642,
+    "name": "Flat",
+    "nodeCount": 361,
+    "nodeTypes": {
+      "stack": 87,
+      "icon": 4,
+      "img": 23,
+      "text": 49
+    },
+    "uniqueNamesCount": 42,
+    "previews": [
+      {
+        "id": 263240,
+        "active": true,
+        "identifier": "D4YQIN5eijXOL_1TwJKqW",
+        "url": "https://paywall-screenshots.superwall.com/D4YQIN5eijXOL_1TwJKqW.png",
+        "paywallId": 29642
+      }
+    ]
+  },
+  {
+    "id": 29794,
+    "name": "Green Noise",
+    "nodeCount": 205,
+    "nodeTypes": {
+      "stack": 30,
+      "icon": 6,
+      "text": 17
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 263952,
+        "active": true,
+        "identifier": "YK5giBYJRDEJD7Z_mdaNk",
+        "url": "https://paywall-screenshots.superwall.com/YK5giBYJRDEJD7Z_mdaNk.png",
+        "paywallId": 29794
+      }
+    ]
+  },
+  {
+    "id": 30151,
+    "name": "Notability",
+    "nodeCount": 169,
+    "nodeTypes": {
+      "img": 1,
+      "stack": 22,
+      "icon": 7,
+      "text": 14
+    },
+    "uniqueNamesCount": 13,
+    "previews": [
+      {
+        "id": 266857,
+        "active": true,
+        "identifier": "q-OkVMfgpaMljRkyYonkX",
+        "url": "https://paywall-screenshots.superwall.com/q-OkVMfgpaMljRkyYonkX.png",
+        "paywallId": 30151
+      }
+    ]
+  },
+  {
+    "id": 30467,
+    "name": "Juiced",
+    "nodeCount": 194,
+    "nodeTypes": {
+      "stack": 18,
+      "img": 7,
+      "text": 16
+    },
+    "uniqueNamesCount": 18,
+    "previews": [
+      {
+        "id": 267454,
+        "active": true,
+        "identifier": "aaY5HPCAXkXyE0xhaqaI-",
+        "url": "https://paywall-screenshots.superwall.com/aaY5HPCAXkXyE0xhaqaI-.png",
+        "paywallId": 30467
+      }
+    ]
+  },
+  {
+    "id": 31317,
+    "name": "ParrotPal",
+    "nodeCount": 275,
+    "nodeTypes": {
+      "stack": 53,
+      "img": 21,
+      "text": 37,
+      "icon": 8
+    },
+    "uniqueNamesCount": 29,
+    "previews": [
+      {
+        "id": 271843,
+        "active": true,
+        "identifier": "yUpRcu487iwKTp0CS7T3q",
+        "url": "https://paywall-screenshots.superwall.com/yUpRcu487iwKTp0CS7T3q.png",
+        "paywallId": 31317
+      }
+    ]
+  },
+  {
+    "id": 31425,
+    "name": "Scape",
+    "nodeCount": 151,
+    "nodeTypes": {
+      "stack": 10,
+      "text": 7,
+      "img": 3,
+      "icon": 2,
+      "video": 1
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 272456,
+        "active": true,
+        "identifier": "7HAspFyg9E5H_56vTPVX9",
+        "url": "https://paywall-screenshots.superwall.com/7HAspFyg9E5H_56vTPVX9.png",
+        "paywallId": 31425
+      }
+    ]
+  },
+  {
+    "id": 32970,
+    "name": "MouseWait",
+    "nodeCount": 211,
+    "nodeTypes": {
+      "stack": 31,
+      "icon": 8,
+      "img": 1,
+      "text": 20
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 279745,
+        "active": true,
+        "identifier": "6xUt3XxO3Vasc4hvrdde9",
+        "url": "https://paywall-screenshots.superwall.com/6xUt3XxO3Vasc4hvrdde9.png",
+        "paywallId": 32970
+      }
+    ]
+  },
+  {
+    "id": 33694,
+    "name": "Hulu",
+    "nodeCount": 211,
+    "nodeTypes": {
+      "stack": 31,
+      "icon": 9,
+      "text": 20
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 283438,
+        "active": true,
+        "identifier": "_OIU9NJEsekufPT9fX5LN",
+        "url": "https://paywall-screenshots.superwall.com/_OIU9NJEsekufPT9fX5LN.png",
+        "paywallId": 33694
+      }
+    ]
+  },
+  {
+    "id": 33698,
+    "name": "Lens Buddy",
+    "nodeCount": 305,
+    "nodeTypes": {
+      "stack": 54,
+      "icon": 2,
+      "text": 44,
+      "img": 15
+    },
+    "uniqueNamesCount": 39,
+    "previews": [
+      {
+        "id": 283455,
+        "active": true,
+        "identifier": "qPc71P1QWM6g2g4bpNnpf",
+        "url": "https://paywall-screenshots.superwall.com/qPc71P1QWM6g2g4bpNnpf.png",
+        "paywallId": 33698
+      }
+    ]
+  },
+  {
+    "id": 34375,
+    "name": "Yuno",
+    "nodeCount": 370,
+    "nodeTypes": {
+      "stack": 109,
+      "img": 27,
+      "text": 44
+    },
+    "uniqueNamesCount": 36,
+    "previews": [
+      {
+        "id": 286711,
+        "active": true,
+        "identifier": "6Bj7t0SSnJp_hbh3YRh0F",
+        "url": "https://paywall-screenshots.superwall.com/6Bj7t0SSnJp_hbh3YRh0F.png",
+        "paywallId": 34375
+      }
+    ]
+  },
+  {
+    "id": 34618,
+    "name": "Skill Yoga",
+    "nodeCount": 399,
+    "nodeTypes": {
+      "stack": 158,
+      "icon": 18,
+      "text": 54,
+      "img": 18
+    },
+    "uniqueNamesCount": 47,
+    "previews": [
+      {
+        "id": 287880,
+        "active": true,
+        "identifier": "1TK-NCxSpLyGqgJXc2IfN",
+        "url": "https://paywall-screenshots.superwall.com/1TK-NCxSpLyGqgJXc2IfN.png",
+        "paywallId": 34618
+      }
+    ]
+  },
+  {
+    "id": 34775,
+    "name": "Exit Popup",
+    "nodeCount": 285,
+    "nodeTypes": {
+      "stack": 44,
+      "img": 12,
+      "text": 26,
+      "icon": 6
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 324853,
+        "active": true,
+        "identifier": "wjkxh8Ip9NTkPGzJKtGII",
+        "url": "https://paywall-screenshots.superwall.com/wjkxh8Ip9NTkPGzJKtGII.png",
+        "paywallId": 34775
+      }
+    ]
+  },
+  {
+    "id": 35530,
+    "name": "CoinStats",
+    "nodeCount": 141,
+    "nodeTypes": {
+      "stack": 15,
+      "img": 2,
+      "text": 7
+    },
+    "uniqueNamesCount": 18,
+    "previews": [
+      {
+        "id": 292568,
+        "active": true,
+        "identifier": "Rmp-2QLiZrux2mrfs27gD",
+        "url": "https://paywall-screenshots.superwall.com/Rmp-2QLiZrux2mrfs27gD.png",
+        "paywallId": 35530
+      }
+    ]
+  },
+  {
+    "id": 35713,
+    "name": "Fizz",
+    "nodeCount": 246,
+    "nodeTypes": {
+      "stack": 65,
+      "img": 7,
+      "text": 17
+    },
+    "uniqueNamesCount": 29,
+    "previews": [
+      {
+        "id": 293517,
+        "active": true,
+        "identifier": "c_hx2KKffO6dGrciw7E2n",
+        "url": "https://paywall-screenshots.superwall.com/c_hx2KKffO6dGrciw7E2n.png",
+        "paywallId": 35713
+      }
+    ]
+  },
+  {
+    "id": 35716,
+    "name": "Fig",
+    "nodeCount": 301,
+    "nodeTypes": {
+      "stack": 46,
+      "icon": 2,
+      "text": 26,
+      "img": 4
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 1054658,
+        "active": true,
+        "identifier": "IGT_pzbBO92deLUxswd1s",
+        "url": "https://paywall-screenshots.superwall.com/IGT_pzbBO92deLUxswd1s.png",
+        "paywallId": 35716
+      }
+    ]
+  },
+  {
+    "id": 36592,
+    "name": "Yuno",
+    "nodeCount": 238,
+    "nodeTypes": {
+      "stack": 39,
+      "icon": 2,
+      "img": 15,
+      "text": 22
+    },
+    "uniqueNamesCount": 32,
+    "previews": [
+      {
+        "id": 297720,
+        "active": true,
+        "identifier": "6S1aa4uD7ehHi8hZ_VTsK",
+        "url": "https://paywall-screenshots.superwall.com/6S1aa4uD7ehHi8hZ_VTsK.png",
+        "paywallId": 36592
+      }
+    ]
+  },
+  {
+    "id": 36721,
+    "name": "Panda Hero",
+    "nodeCount": 248,
+    "nodeTypes": {
+      "stack": 52,
+      "icon": 3,
+      "img": 16,
+      "text": 22
+    },
+    "uniqueNamesCount": 32,
+    "previews": [
+      {
+        "id": 299234,
+        "active": true,
+        "identifier": "aHDLZ-ZZ5JYQNifSqNVrk",
+        "url": "https://paywall-screenshots.superwall.com/aHDLZ-ZZ5JYQNifSqNVrk.png",
+        "paywallId": 36721
+      }
+    ]
+  },
+  {
+    "id": 36752,
+    "name": "Impact",
+    "nodeCount": 427,
+    "nodeTypes": {
+      "stack": 126,
+      "icon": 18,
+      "img": 32,
+      "text": 62
+    },
+    "uniqueNamesCount": 40,
+    "previews": [
+      {
+        "id": 298564,
+        "active": true,
+        "identifier": "ley85S_s1b_091Zm394Na",
+        "url": "https://paywall-screenshots.superwall.com/ley85S_s1b_091Zm394Na.png",
+        "paywallId": 36752
+      }
+    ]
+  },
+  {
+    "id": 36754,
+    "name": "Harmony Calories",
+    "nodeCount": 319,
+    "nodeTypes": {
+      "stack": 70,
+      "icon": 5,
+      "video": 1,
+      "text": 36,
+      "img": 20
+    },
+    "uniqueNamesCount": 39,
+    "previews": [
+      {
+        "id": 298570,
+        "active": true,
+        "identifier": "lnPfzv3IWMcEqgVsY-JV0",
+        "url": "https://paywall-screenshots.superwall.com/lnPfzv3IWMcEqgVsY-JV0.png",
+        "paywallId": 36754
+      }
+    ]
+  },
+  {
+    "id": 36761,
+    "name": "Unscripted",
+    "nodeCount": 292,
+    "nodeTypes": {
+      "stack": 46,
+      "img": 16,
+      "video": 1,
+      "text": 40
+    },
+    "uniqueNamesCount": 35,
+    "previews": [
+      {
+        "id": 324855,
+        "active": true,
+        "identifier": "6kcsYnhwZfmglSGQRuSJG",
+        "url": "https://paywall-screenshots.superwall.com/6kcsYnhwZfmglSGQRuSJG.png",
+        "paywallId": 36761
+      }
+    ]
+  },
+  {
+    "id": 37001,
+    "name": "Moneta",
+    "nodeCount": 259,
+    "nodeTypes": {
+      "stack": 34,
+      "img": 9,
+      "text": 23
+    },
+    "uniqueNamesCount": 25,
+    "previews": [
+      {
+        "id": 299872,
+        "active": true,
+        "identifier": "HiKAz8NEudZ29998VlGt1",
+        "url": "https://paywall-screenshots.superwall.com/HiKAz8NEudZ29998VlGt1.png",
+        "paywallId": 37001
+      }
+    ]
+  },
+  {
+    "id": 37576,
+    "name": "Dreamy",
+    "nodeCount": 163,
+    "nodeTypes": {
+      "stack": 24,
+      "icon": 4,
+      "text": 18
+    },
+    "uniqueNamesCount": 20,
+    "previews": [
+      {
+        "id": 302969,
+        "active": true,
+        "identifier": "vKgRYwWiiHCetPY-MJrB9",
+        "url": "https://paywall-screenshots.superwall.com/vKgRYwWiiHCetPY-MJrB9.png",
+        "paywallId": 37576
+      }
+    ]
+  },
+  {
+    "id": 37925,
+    "name": "Perplexity",
+    "nodeCount": 202,
+    "nodeTypes": {
+      "stack": 26,
+      "icon": 8,
+      "text": 14,
+      "img": 1
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 332301,
+        "active": true,
+        "identifier": "5Ya6fScubRO9MJCVqyPKm",
+        "url": "https://paywall-screenshots.superwall.com/5Ya6fScubRO9MJCVqyPKm.png",
+        "paywallId": 37925
+      }
+    ]
+  },
+  {
+    "id": 38393,
+    "name": "Aesthetic",
+    "nodeCount": 221,
+    "nodeTypes": {
+      "video": 1,
+      "stack": 27,
+      "img": 8,
+      "text": 14
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 307356,
+        "active": true,
+        "identifier": "nmzVbD5oQ1U7Xyaz41WOX",
+        "url": "https://paywall-screenshots.superwall.com/nmzVbD5oQ1U7Xyaz41WOX.png",
+        "paywallId": 38393
+      }
+    ]
+  },
+  {
+    "id": 38697,
+    "name": "Fizz",
+    "nodeCount": 292,
+    "nodeTypes": {
+      "stack": 63,
+      "img": 24,
+      "text": 48
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 308948,
+        "active": true,
+        "identifier": "t17TK23Umu2abb3Oj-FVE",
+        "url": "https://paywall-screenshots.superwall.com/t17TK23Umu2abb3Oj-FVE.png",
+        "paywallId": 38697
+      }
+    ]
+  },
+  {
+    "id": 39038,
+    "name": "Toonsutra",
+    "nodeCount": 204,
+    "nodeTypes": {
+      "stack": 25,
+      "icon": 1,
+      "text": 27,
+      "img": 3
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 310799,
+        "active": true,
+        "identifier": "T11nbAZ4pnp_YG9QqnPAR",
+        "url": "https://paywall-screenshots.superwall.com/T11nbAZ4pnp_YG9QqnPAR.png",
+        "paywallId": 39038
+      }
+    ]
+  },
+  {
+    "id": 39152,
+    "name": "Vocabulary",
+    "nodeCount": 247,
+    "nodeTypes": {
+      "stack": 50,
+      "img": 12,
+      "text": 26
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 311334,
+        "active": true,
+        "identifier": "5ksyqnDxlJFYzhFkzAMSK",
+        "url": "https://paywall-screenshots.superwall.com/5ksyqnDxlJFYzhFkzAMSK.png",
+        "paywallId": 39152
+      }
+    ]
+  },
+  {
+    "id": 39364,
+    "name": "New York Magazine",
+    "nodeCount": 153,
+    "nodeTypes": {
+      "stack": 18,
+      "img": 5,
+      "text": 13
+    },
+    "uniqueNamesCount": 12,
+    "previews": [
+      {
+        "id": 312501,
+        "active": true,
+        "identifier": "WMmOJwEtpwQgAjwZAWeHF",
+        "url": "https://paywall-screenshots.superwall.com/WMmOJwEtpwQgAjwZAWeHF.png",
+        "paywallId": 39364
+      }
+    ]
+  },
+  {
+    "id": 39779,
+    "name": "LazyBudget",
+    "nodeCount": 192,
+    "nodeTypes": {
+      "stack": 19,
+      "img": 6,
+      "text": 12
+    },
+    "uniqueNamesCount": 19,
+    "previews": [
+      {
+        "id": 314832,
+        "active": true,
+        "identifier": "i7n3DlsTAeER5gJks1Jsa",
+        "url": "https://paywall-screenshots.superwall.com/i7n3DlsTAeER5gJks1Jsa.png",
+        "paywallId": 39779
+      }
+    ]
+  },
+  {
+    "id": 42871,
+    "name": "Remote Control for All TV Plus",
+    "nodeCount": 230,
+    "nodeTypes": {
+      "stack": 25,
+      "icon": 1,
+      "text": 17,
+      "img": 4
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 330769,
+        "active": true,
+        "identifier": "WntfxH0ZIcu20ybgEryS0",
+        "url": "https://paywall-screenshots.superwall.com/WntfxH0ZIcu20ybgEryS0.png",
+        "paywallId": 42871
+      }
+    ]
+  },
+  {
+    "id": 43046,
+    "name": "Capture AI",
+    "nodeCount": 198,
+    "nodeTypes": {
+      "stack": 17,
+      "icon": 1,
+      "text": 13,
+      "img": 2
+    },
+    "uniqueNamesCount": 19,
+    "previews": [
+      {
+        "id": 331436,
+        "active": true,
+        "identifier": "U2J8qNyjGaYGyIjLd422v",
+        "url": "https://paywall-screenshots.superwall.com/U2J8qNyjGaYGyIjLd422v.png",
+        "paywallId": 43046
+      }
+    ]
+  },
+  {
+    "id": 43056,
+    "name": "Game On",
+    "nodeCount": 436,
+    "nodeTypes": {
+      "stack": 39,
+      "text": 131,
+      "img": 5,
+      "icon": 1
+    },
+    "uniqueNamesCount": 62,
+    "previews": [
+      {
+        "id": 331445,
+        "active": true,
+        "identifier": "9S04sP2iQf1lAtV5lBDS6",
+        "url": "https://paywall-screenshots.superwall.com/9S04sP2iQf1lAtV5lBDS6.png",
+        "paywallId": 43056
+      }
+    ]
+  },
+  {
+    "id": 43227,
+    "name": "ReciMe",
+    "nodeCount": 214,
+    "nodeTypes": {
+      "stack": 28,
+      "icon": 7,
+      "text": 18,
+      "video": 1,
+      "img": 3
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 345578,
+        "active": true,
+        "identifier": "d0Aq_hiTdrS2KPZz94CjE",
+        "url": "https://paywall-screenshots.superwall.com/d0Aq_hiTdrS2KPZz94CjE.png",
+        "paywallId": 43227
+      }
+    ]
+  },
+  {
+    "id": 45273,
+    "name": "Inkitt",
+    "nodeCount": 334,
+    "nodeTypes": {
+      "stack": 45,
+      "icon": 5,
+      "img": 2,
+      "text": 32
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 342319,
+        "active": true,
+        "identifier": "BFSe1RYXXbHmSjD-XFKJ1",
+        "url": "https://paywall-screenshots.superwall.com/BFSe1RYXXbHmSjD-XFKJ1.png",
+        "paywallId": 45273
+      }
+    ]
+  },
+  {
+    "id": 45912,
+    "name": "Opal",
+    "nodeCount": 265,
+    "nodeTypes": {
+      "stack": 52,
+      "img": 16,
+      "text": 30
+    },
+    "uniqueNamesCount": 27,
+    "previews": [
+      {
+        "id": 506411,
+        "active": true,
+        "identifier": "i9_RRd1CJdNTEbzF1O16p",
+        "url": "https://paywall-screenshots.superwall.com/i9_RRd1CJdNTEbzF1O16p.png",
+        "paywallId": 45912
+      }
+    ]
+  },
+  {
+    "id": 45926,
+    "name": "Coin Stats - Halloween",
+    "nodeCount": 179,
+    "nodeTypes": {
+      "stack": 15,
+      "img": 2,
+      "text": 12
+    },
+    "uniqueNamesCount": 16,
+    "previews": [
+      {
+        "id": 345683,
+        "active": true,
+        "identifier": "h8ReSKqYTjvD_nihX5RF_",
+        "url": "https://paywall-screenshots.superwall.com/h8ReSKqYTjvD_nihX5RF_.png",
+        "paywallId": 45926
+      }
+    ]
+  },
+  {
+    "id": 46406,
+    "name": "Rink",
+    "nodeCount": 385,
+    "nodeTypes": {
+      "stack": 93,
+      "img": 25,
+      "icon": 1,
+      "text": 37
+    },
+    "uniqueNamesCount": 34,
+    "previews": [
+      {
+        "id": 348032,
+        "active": true,
+        "identifier": "H3ltH4Yudm6eOx43jf6Ei",
+        "url": "https://paywall-screenshots.superwall.com/H3ltH4Yudm6eOx43jf6Ei.png",
+        "paywallId": 46406
+      }
+    ]
+  },
+  {
+    "id": 47144,
+    "name": "Hulah",
+    "nodeCount": 196,
+    "nodeTypes": {
+      "stack": 35,
+      "icon": 4,
+      "text": 33
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 351805,
+        "active": true,
+        "identifier": "YQq-nTPVgw80f4DaTWIyl",
+        "url": "https://paywall-screenshots.superwall.com/YQq-nTPVgw80f4DaTWIyl.png",
+        "paywallId": 47144
+      }
+    ]
+  },
+  {
+    "id": 47309,
+    "name": "Calorie Tracking",
+    "nodeCount": 278,
+    "nodeTypes": {
+      "stack": 64,
+      "text": 28,
+      "icon": 10,
+      "img": 2,
+      "lottie": 1,
+      "video": 1
+    },
+    "uniqueNamesCount": 38,
+    "previews": [
+      {
+        "id": 365779,
+        "active": true,
+        "identifier": "Vf1hj67uWD-zQL-CLNQyz",
+        "url": "https://paywall-screenshots.superwall.com/Vf1hj67uWD-zQL-CLNQyz.png",
+        "paywallId": 47309
+      }
+    ]
+  },
+  {
+    "id": 47317,
+    "name": "Club Pillar",
+    "nodeCount": 380,
+    "nodeTypes": {
+      "stack": 43,
+      "text": 42,
+      "img": 7,
+      "icon": 1
+    },
+    "uniqueNamesCount": 28,
+    "previews": [
+      {
+        "id": 352672,
+        "active": true,
+        "identifier": "o2druhFVsz5pfmWlj3Pha",
+        "url": "https://paywall-screenshots.superwall.com/o2druhFVsz5pfmWlj3Pha.png",
+        "paywallId": 47317
+      }
+    ]
+  },
+  {
+    "id": 47320,
+    "name": "AutoPaste",
+    "nodeCount": 162,
+    "nodeTypes": {
+      "stack": 18,
+      "text": 13,
+      "img": 5
+    },
+    "uniqueNamesCount": 20,
+    "previews": [
+      {
+        "id": 352676,
+        "active": true,
+        "identifier": "9RRF_cQyXMA1_qh13kIny",
+        "url": "https://paywall-screenshots.superwall.com/9RRF_cQyXMA1_qh13kIny.png",
+        "paywallId": 47320
+      }
+    ]
+  },
+  {
+    "id": 47550,
+    "name": "Special Offer",
+    "nodeCount": 250,
+    "nodeTypes": {
+      "stack": 18,
+      "img": 2,
+      "text": 14
+    },
+    "uniqueNamesCount": 17,
+    "previews": [
+      {
+        "id": 1054668,
+        "active": true,
+        "identifier": "tbY-X7szBc7ZdrfQwDi11",
+        "url": "https://paywall-screenshots.superwall.com/tbY-X7szBc7ZdrfQwDi11.png",
+        "paywallId": 47550
+      }
+    ]
+  },
+  {
+    "id": 48536,
+    "name": "Homework Helper",
+    "nodeCount": 258,
+    "nodeTypes": {
+      "stack": 36,
+      "icon": 3,
+      "img": 8,
+      "text": 21
+    },
+    "uniqueNamesCount": 36,
+    "previews": [
+      {
+        "id": 358968,
+        "active": true,
+        "identifier": "d-a2-2DDUmP8hOO0GNKY5",
+        "url": "https://paywall-screenshots.superwall.com/d-a2-2DDUmP8hOO0GNKY5.png",
+        "paywallId": 48536
+      }
+    ]
+  },
+  {
+    "id": 49392,
+    "name": "StudyAI",
+    "nodeCount": 219,
+    "nodeTypes": {
+      "stack": 29,
+      "icon": 1,
+      "text": 21,
+      "img": 4
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 367393,
+        "active": true,
+        "identifier": "m27E6xsWCJhFMQNye9HC9",
+        "url": "https://paywall-screenshots.superwall.com/m27E6xsWCJhFMQNye9HC9.png",
+        "paywallId": 49392
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "name": "Black Friday",
+    "nodeCount": 300,
+    "nodeTypes": {
+      "stack": 48,
+      "text": 45,
+      "img": 11
+    },
+    "uniqueNamesCount": 32,
+    "previews": [
+      {
+        "id": 1052275,
+        "active": true,
+        "identifier": "Ei1ZjsIoxnUsqkTeXQzBj",
+        "url": "https://paywall-screenshots.superwall.com/Ei1ZjsIoxnUsqkTeXQzBj.png",
+        "paywallId": 50100
+      }
+    ]
+  },
+  {
+    "id": 50211,
+    "name": "Mobile Security",
+    "nodeCount": 353,
+    "nodeTypes": {
+      "stack": 118,
+      "icon": 1,
+      "text": 32,
+      "img": 42
+    },
+    "uniqueNamesCount": 32,
+    "previews": [
+      {
+        "id": 367366,
+        "active": true,
+        "identifier": "whczN9i2DVTPEStb-q-UT",
+        "url": "https://paywall-screenshots.superwall.com/whczN9i2DVTPEStb-q-UT.png",
+        "paywallId": 50211
+      }
+    ]
+  },
+  {
+    "id": 50216,
+    "name": "IQ Masters",
+    "nodeCount": 212,
+    "nodeTypes": {
+      "stack": 27,
+      "icon": 4,
+      "text": 17,
+      "img": 1
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 367392,
+        "active": true,
+        "identifier": "T12Y884kTs7rwwxn5O5uR",
+        "url": "https://paywall-screenshots.superwall.com/T12Y884kTs7rwwxn5O5uR.png",
+        "paywallId": 50216
+      }
+    ]
+  },
+  {
+    "id": 50710,
+    "name": "Exit Offer",
+    "nodeCount": 252,
+    "nodeTypes": {
+      "stack": 66,
+      "text": 18,
+      "icon": 10,
+      "img": 2
+    },
+    "uniqueNamesCount": 31,
+    "previews": [
+      {
+        "id": 378158,
+        "active": true,
+        "identifier": "Ld5G0nVs_dBwEzzd2q2Wb",
+        "url": "https://paywall-screenshots.superwall.com/Ld5G0nVs_dBwEzzd2q2Wb.png",
+        "paywallId": 50710
+      }
+    ]
+  },
+  {
+    "id": 50800,
+    "name": "Ad Block",
+    "nodeCount": 246,
+    "nodeTypes": {
+      "stack": 31,
+      "icon": 5,
+      "text": 16
+    },
+    "uniqueNamesCount": 29,
+    "previews": [
+      {
+        "id": 370545,
+        "active": true,
+        "identifier": "5hbBlaTFbt1jG3bgSjyV4",
+        "url": "https://paywall-screenshots.superwall.com/5hbBlaTFbt1jG3bgSjyV4.png",
+        "paywallId": 50800
+      }
+    ]
+  },
+  {
+    "id": 50814,
+    "name": "Wallpaper Maker",
+    "nodeCount": 201,
+    "nodeTypes": {
+      "stack": 25,
+      "video": 1,
+      "icon": 6,
+      "text": 14,
+      "img": 1
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 378178,
+        "active": true,
+        "identifier": "uSjTDyuXEx5ZrhhhH5PHg",
+        "url": "https://paywall-screenshots.superwall.com/uSjTDyuXEx5ZrhhhH5PHg.png",
+        "paywallId": 50814
+      }
+    ]
+  },
+  {
+    "id": 50855,
+    "name": "Luxe Wallpapers",
+    "nodeCount": 287,
+    "nodeTypes": {
+      "text": 28,
+      "stack": 66,
+      "icon": 2,
+      "img": 5
+    },
+    "uniqueNamesCount": 36,
+    "previews": [
+      {
+        "id": 370766,
+        "active": true,
+        "identifier": "S0SYXG9hiV77nux8cygRQ",
+        "url": "https://paywall-screenshots.superwall.com/S0SYXG9hiV77nux8cygRQ.png",
+        "paywallId": 50855
+      }
+    ]
+  },
+  {
+    "id": 51128,
+    "name": "Mindmod",
+    "nodeCount": 226,
+    "nodeTypes": {
+      "stack": 21,
+      "img": 4,
+      "text": 19
+    },
+    "uniqueNamesCount": 16,
+    "previews": [
+      {
+        "id": 378193,
+        "active": true,
+        "identifier": "aveO1SIALaFGQnBc8Y_Ac",
+        "url": "https://paywall-screenshots.superwall.com/aveO1SIALaFGQnBc8Y_Ac.png",
+        "paywallId": 51128
+      }
+    ]
+  },
+  {
+    "id": 51564,
+    "name": "Black Friday",
+    "nodeCount": 156,
+    "nodeTypes": {
+      "stack": 17,
+      "img": 5,
+      "text": 12
+    },
+    "uniqueNamesCount": 17,
+    "previews": [
+      {
+        "id": 1052277,
+        "active": true,
+        "identifier": "EvGgLpxr36WdS5stLZm4u",
+        "url": "https://paywall-screenshots.superwall.com/EvGgLpxr36WdS5stLZm4u.png",
+        "paywallId": 51564
+      }
+    ]
+  },
+  {
+    "id": 53049,
+    "name": "Calorie Tracker",
+    "nodeCount": 266,
+    "nodeTypes": {
+      "stack": 23,
+      "text": 18,
+      "img": 4,
+      "icon": 3
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 1054643,
+        "active": true,
+        "identifier": "OVACDyppwas4ytR3dNdgc",
+        "url": "https://paywall-screenshots.superwall.com/OVACDyppwas4ytR3dNdgc.png",
+        "paywallId": 53049
+      }
+    ]
+  },
+  {
+    "id": 54098,
+    "name": "Mr. Arthur",
+    "nodeCount": 499,
+    "nodeTypes": {
+      "stack": 172,
+      "text": 83,
+      "img": 50,
+      "icon": 1
+    },
+    "uniqueNamesCount": 59,
+    "previews": [
+      {
+        "id": 387103,
+        "active": true,
+        "identifier": "npnY8-CmPhxYY3g8qm3hA",
+        "url": "https://paywall-screenshots.superwall.com/npnY8-CmPhxYY3g8qm3hA.png",
+        "paywallId": 54098
+      }
+    ]
+  },
+  {
+    "id": 54171,
+    "name": "Rapchat",
+    "nodeCount": 343,
+    "nodeTypes": {
+      "stack": 41,
+      "text": 30,
+      "img": 13
+    },
+    "uniqueNamesCount": 28,
+    "previews": [
+      {
+        "id": 387354,
+        "active": true,
+        "identifier": "pQrSmpA5qmy3mKzySC7zY",
+        "url": "https://paywall-screenshots.superwall.com/pQrSmpA5qmy3mKzySC7zY.png",
+        "paywallId": 54171
+      }
+    ]
+  },
+  {
+    "id": 54955,
+    "name": "LiftAI",
+    "nodeCount": 203,
+    "nodeTypes": {
+      "stack": 27,
+      "icon": 5,
+      "text": 17
+    },
+    "uniqueNamesCount": 23,
+    "previews": [
+      {
+        "id": 390883,
+        "active": true,
+        "identifier": "Ej4Soi390juIS7m4Vv-4-",
+        "url": "https://paywall-screenshots.superwall.com/Ej4Soi390juIS7m4Vv-4-.png",
+        "paywallId": 54955
+      }
+    ]
+  },
+  {
+    "id": 54958,
+    "name": "Zest",
+    "nodeCount": 263,
+    "nodeTypes": {
+      "stack": 33,
+      "icon": 1,
+      "text": 12,
+      "img": 1
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 390898,
+        "active": true,
+        "identifier": "f1qrhZ5D676PCP_zW_6Hc",
+        "url": "https://paywall-screenshots.superwall.com/f1qrhZ5D676PCP_zW_6Hc.png",
+        "paywallId": 54958
+      }
+    ]
+  },
+  {
+    "id": 54964,
+    "name": "Hulah",
+    "nodeCount": 330,
+    "nodeTypes": {
+      "stack": 74,
+      "text": 35,
+      "icon": 18,
+      "img": 3
+    },
+    "uniqueNamesCount": 31,
+    "previews": [
+      {
+        "id": 390931,
+        "active": true,
+        "identifier": "icGUnXRGuYkUxiYmVm60n",
+        "url": "https://paywall-screenshots.superwall.com/icGUnXRGuYkUxiYmVm60n.png",
+        "paywallId": 54964
+      }
+    ]
+  },
+  {
+    "id": 54972,
+    "name": "Arch iOS",
+    "nodeCount": 199,
+    "nodeTypes": {
+      "stack": 24,
+      "icon": 1,
+      "text": 14,
+      "video": 1,
+      "img": 2
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 391021,
+        "active": true,
+        "identifier": "i5DYm8G36jiUKJ2k25nMf",
+        "url": "https://paywall-screenshots.superwall.com/i5DYm8G36jiUKJ2k25nMf.png",
+        "paywallId": 54972
+      }
+    ]
+  },
+  {
+    "id": 55035,
+    "name": "Coursology",
+    "nodeCount": 215,
+    "nodeTypes": {
+      "text": 19,
+      "img": 19,
+      "stack": 26,
+      "icon": 3
+    },
+    "uniqueNamesCount": 25,
+    "previews": [
+      {
+        "id": 391258,
+        "active": true,
+        "identifier": "O1u-78QfJXZNn9I6It_2L",
+        "url": "https://paywall-screenshots.superwall.com/O1u-78QfJXZNn9I6It_2L.png",
+        "paywallId": 55035
+      }
+    ]
+  },
+  {
+    "id": 59270,
+    "name": "Arch",
+    "nodeCount": 199,
+    "nodeTypes": {
+      "stack": 24,
+      "icon": 1,
+      "text": 14,
+      "video": 1,
+      "img": 2
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 412940,
+        "active": true,
+        "identifier": "GXUI_chUogBSBEX1X2tKr",
+        "url": "https://paywall-screenshots.superwall.com/GXUI_chUogBSBEX1X2tKr.png",
+        "paywallId": 59270
+      }
+    ]
+  },
+  {
+    "id": 59274,
+    "name": "Billio",
+    "nodeCount": 234,
+    "nodeTypes": {
+      "stack": 23,
+      "text": 21,
+      "icon": 4,
+      "img": 1
+    },
+    "uniqueNamesCount": 24,
+    "previews": [
+      {
+        "id": 412949,
+        "active": true,
+        "identifier": "m5MWj4aJi5ou9wTYvFi_D",
+        "url": "https://paywall-screenshots.superwall.com/m5MWj4aJi5ou9wTYvFi_D.png",
+        "paywallId": 59274
+      }
+    ]
+  },
+  {
+    "id": 59277,
+    "name": "FoodCheck",
+    "nodeCount": 261,
+    "nodeTypes": {
+      "stack": 43,
+      "text": 21,
+      "icon": 1,
+      "img": 3
+    },
+    "uniqueNamesCount": 30,
+    "previews": [
+      {
+        "id": 412962,
+        "active": true,
+        "identifier": "sWXmDUzI2vJwMfsHiYrQs",
+        "url": "https://paywall-screenshots.superwall.com/sWXmDUzI2vJwMfsHiYrQs.png",
+        "paywallId": 59277
+      }
+    ]
+  },
+  {
+    "id": 59285,
+    "name": "Homework AI",
+    "nodeCount": 254,
+    "nodeTypes": {
+      "stack": 30,
+      "icon": 2,
+      "text": 21,
+      "img": 6
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 413000,
+        "active": true,
+        "identifier": "OWTLirwtTyUVEaAoW-qHL",
+        "url": "https://paywall-screenshots.superwall.com/OWTLirwtTyUVEaAoW-qHL.png",
+        "paywallId": 59285
+      }
+    ]
+  },
+  {
+    "id": 59287,
+    "name": "Recipe Keeper",
+    "nodeCount": 274,
+    "nodeTypes": {
+      "video": 1,
+      "stack": 58,
+      "text": 31,
+      "icon": 4,
+      "img": 25
+    },
+    "uniqueNamesCount": 28,
+    "previews": [
+      {
+        "id": 413008,
+        "active": true,
+        "identifier": "GYgFaPM2qhlLBzAMdm2e3",
+        "url": "https://paywall-screenshots.superwall.com/GYgFaPM2qhlLBzAMdm2e3.png",
+        "paywallId": 59287
+      }
+    ]
+  },
+  {
+    "id": 59402,
+    "name": "Voice AI",
+    "nodeCount": 203,
+    "nodeTypes": {
+      "stack": 28,
+      "icon": 6,
+      "text": 16,
+      "img": 1
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 413587,
+        "active": true,
+        "identifier": "Og59_f9ifWKTjJfzttXx_",
+        "url": "https://paywall-screenshots.superwall.com/Og59_f9ifWKTjJfzttXx_.png",
+        "paywallId": 59402
+      }
+    ]
+  },
+  {
+    "id": 59582,
+    "name": "Soundmap",
+    "nodeCount": 165,
+    "nodeTypes": {
+      "stack": 20,
+      "text": 21
+    },
+    "uniqueNamesCount": 16,
+    "previews": [
+      {
+        "id": 414363,
+        "active": true,
+        "identifier": "tej2zka7u1-7VRMIdZHOU",
+        "url": "https://paywall-screenshots.superwall.com/tej2zka7u1-7VRMIdZHOU.png",
+        "paywallId": 59582
+      }
+    ]
+  },
+  {
+    "id": 61133,
+    "name": "Tiimo",
+    "nodeCount": 747,
+    "nodeTypes": {
+      "stack": 280,
+      "icon": 60,
+      "text": 136,
+      "img": 45
+    },
+    "uniqueNamesCount": 50,
+    "previews": [
+      {
+        "id": 426645,
+        "active": true,
+        "identifier": "xuj8Ogo8CtLHCzhwAHX3h",
+        "url": "https://paywall-screenshots.superwall.com/xuj8Ogo8CtLHCzhwAHX3h.png",
+        "paywallId": 61133
+      }
+    ]
+  },
+  {
+    "id": 62186,
+    "name": "StepSaga",
+    "nodeCount": 177,
+    "nodeTypes": {
+      "stack": 31,
+      "img": 10,
+      "text": 10
+    },
+    "uniqueNamesCount": 25,
+    "previews": [
+      {
+        "id": 426650,
+        "active": true,
+        "identifier": "m_mmashjMzluK1sGLDCKA",
+        "url": "https://paywall-screenshots.superwall.com/m_mmashjMzluK1sGLDCKA.png",
+        "paywallId": 62186
+      }
+    ]
+  },
+  {
+    "id": 65472,
+    "name": "Earth.fm",
+    "nodeCount": 315,
+    "nodeTypes": {
+      "stack": 56,
+      "icon": 10,
+      "text": 26
+    },
+    "uniqueNamesCount": 34,
+    "previews": [
+      {
+        "id": 442779,
+        "active": true,
+        "identifier": "fKKXECpCIyI7nyaIivUc5",
+        "url": "https://paywall-screenshots.superwall.com/fKKXECpCIyI7nyaIivUc5.png",
+        "paywallId": 65472
+      }
+    ]
+  },
+  {
+    "id": 65504,
+    "name": "Multi-page with offer",
+    "nodeCount": 377,
+    "nodeTypes": {
+      "stack": 90,
+      "navigation": 1,
+      "text": 42,
+      "img": 13,
+      "drawer": 1,
+      "video": 1
+    },
+    "uniqueNamesCount": 43,
+    "previews": [
+      {
+        "id": 442919,
+        "active": true,
+        "identifier": "-15nvkpuku4TX0OoJ2VJy",
+        "url": "https://paywall-screenshots.superwall.com/-15nvkpuku4TX0OoJ2VJy.png",
+        "paywallId": 65504
+      }
+    ]
+  },
+  {
+    "id": 65758,
+    "name": "Flibbo",
+    "nodeCount": 211,
+    "nodeTypes": {
+      "stack": 27,
+      "text": 17,
+      "img": 1,
+      "icon": 5
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 444162,
+        "active": true,
+        "identifier": "1Dwu7iRYR6x0X8LIHROzv",
+        "url": "https://paywall-screenshots.superwall.com/1Dwu7iRYR6x0X8LIHROzv.png",
+        "paywallId": 65758
+      }
+    ]
+  },
+  {
+    "id": 66710,
+    "name": "Scores for NCAA Sports",
+    "nodeCount": 248,
+    "nodeTypes": {
+      "stack": 38,
+      "text": 18,
+      "img": 1,
+      "icon": 5
+    },
+    "uniqueNamesCount": 37,
+    "previews": [
+      {
+        "id": 449244,
+        "active": true,
+        "identifier": "1DKBnILDwcQ9bXU4mFEEC",
+        "url": "https://paywall-screenshots.superwall.com/1DKBnILDwcQ9bXU4mFEEC.png",
+        "paywallId": 66710
+      }
+    ]
+  },
+  {
+    "id": 67447,
+    "name": "Homework AI (Template)",
+    "nodeCount": 276,
+    "nodeTypes": {
+      "stack": 30,
+      "icon": 2,
+      "text": 21,
+      "img": 6
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 454370,
+        "active": true,
+        "identifier": "O0fZ-czlJZMTRGG27akz4",
+        "url": "https://paywall-screenshots.superwall.com/O0fZ-czlJZMTRGG27akz4.png",
+        "paywallId": 67447
+      }
+    ]
+  },
+  {
+    "id": 68527,
+    "name": "Timeline & Benefits",
+    "nodeCount": 244,
+    "nodeTypes": {
+      "stack": 58,
+      "icon": 10,
+      "img": 1,
+      "text": 21
+    },
+    "uniqueNamesCount": 36,
+    "previews": [
+      {
+        "id": 458549,
+        "active": true,
+        "identifier": "TwsEz9b4Sx6Uo7nmqStKf",
+        "url": "https://paywall-screenshots.superwall.com/TwsEz9b4Sx6Uo7nmqStKf.png",
+        "paywallId": 68527
+      }
+    ]
+  },
+  {
+    "id": 68528,
+    "name": "Discount Offer",
+    "nodeCount": 186,
+    "nodeTypes": {
+      "stack": 17,
+      "icon": 3,
+      "img": 1,
+      "text": 11
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 1052279,
+        "active": true,
+        "identifier": "ylKdjw0aWA50xjbwNhT00",
+        "url": "https://paywall-screenshots.superwall.com/ylKdjw0aWA50xjbwNhT00.png",
+        "paywallId": 68528
+      }
+    ]
+  },
+  {
+    "id": 72708,
+    "name": "Grok",
+    "nodeCount": 205,
+    "nodeTypes": {
+      "stack": 27,
+      "icon": 5,
+      "text": 13
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 480310,
+        "active": true,
+        "identifier": "0EoScJPpZFwSSB-NyOTOF",
+        "url": "https://paywall-screenshots.superwall.com/0EoScJPpZFwSSB-NyOTOF.png",
+        "paywallId": 72708
+      }
+    ]
+  },
+  {
+    "id": 73182,
+    "name": "Transaction Abandon One-time Offer",
+    "nodeCount": 216,
+    "nodeTypes": {
+      "stack": 17,
+      "img": 2,
+      "text": 10
+    },
+    "uniqueNamesCount": 17,
+    "previews": [
+      {
+        "id": 1054638,
+        "active": true,
+        "identifier": "haqmaeCqF66DkOE3Tmb7Q",
+        "url": "https://paywall-screenshots.superwall.com/haqmaeCqF66DkOE3Tmb7Q.png",
+        "paywallId": 73182
+      }
+    ]
+  },
+  {
+    "id": 77260,
+    "name": "Duolingo",
+    "nodeCount": 309,
+    "nodeTypes": {
+      "stack": 83,
+      "img": 11,
+      "text": 41,
+      "icon": 17,
+      "lottie": 1,
+      "navigation": 1
+    },
+    "uniqueNamesCount": 46,
+    "previews": [
+      {
+        "id": 502832,
+        "active": true,
+        "identifier": "D2Q2wwHX7Fal6CQsVrjyH",
+        "url": "https://paywall-screenshots.superwall.com/D2Q2wwHX7Fal6CQsVrjyH.png",
+        "paywallId": 77260
+      }
+    ]
+  },
+  {
+    "id": 77970,
+    "name": "Web2App Demo",
+    "nodeCount": 156,
+    "nodeTypes": {
+      "stack": 30,
+      "icon": 5,
+      "text": 14
+    },
+    "uniqueNamesCount": 26,
+    "previews": [
+      {
+        "id": 506637,
+        "active": true,
+        "identifier": "mMZ2C19WKAlZZI9oTwzjl",
+        "url": "https://paywall-screenshots.superwall.com/mMZ2C19WKAlZZI9oTwzjl.png",
+        "paywallId": 77970
+      }
+    ]
+  },
+  {
+    "id": 85935,
+    "name": "Multi-page with video",
+    "nodeCount": 368,
+    "nodeTypes": {
+      "navigation": 1,
+      "stack": 90,
+      "text": 37,
+      "img": 8,
+      "icon": 4,
+      "drawer": 1,
+      "video": 1
+    },
+    "uniqueNamesCount": 41,
+    "previews": [
+      {
+        "id": 546302,
+        "active": true,
+        "identifier": "CWfMxmpsxK74FCwrFYvck",
+        "url": "https://paywall-screenshots.superwall.com/CWfMxmpsxK74FCwrFYvck.png",
+        "paywallId": 85935
+      }
+    ]
+  },
+  {
+    "id": 89173,
+    "name": "Recorder Pro (Web Checkout Link)",
+    "nodeCount": 236,
+    "nodeTypes": {
+      "stack": 29,
+      "icon": 6,
+      "text": 18
+    },
+    "uniqueNamesCount": 21,
+    "previews": [
+      {
+        "id": 560718,
+        "active": true,
+        "identifier": "QTZviqsj5gOZsFRRpvFoR",
+        "url": "https://paywall-screenshots.superwall.com/QTZviqsj5gOZsFRRpvFoR.png",
+        "paywallId": 89173
+      }
+    ]
+  },
+  {
+    "id": 98074,
+    "name": "Robin",
+    "nodeCount": 265,
+    "nodeTypes": {
+      "stack": 31,
+      "text": 20,
+      "img": 4,
+      "icon": 3
+    },
+    "uniqueNamesCount": 19,
+    "previews": [
+      {
+        "id": 607873,
+        "active": true,
+        "identifier": "RuEYwU8Wh3hLaoqsrR2xV",
+        "url": "https://paywall-screenshots.superwall.com/RuEYwU8Wh3hLaoqsrR2xV.png",
+        "paywallId": 98074
+      }
+    ]
+  }
+]

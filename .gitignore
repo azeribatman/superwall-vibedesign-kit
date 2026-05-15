@@ -1,0 +1,15 @@
+.secrets/
+data/templates/
+data/catalog/*.raw.json
+data/pulled/
+data/grammar/
+data/fragments/
+scripts/.template_dumps/
+scripts/.templates_dump.json
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+.claude/
+.claude.json
